@@ -12,14 +12,21 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+  trailingSlash: true,
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'morganegautier',
+  projectName: 'osint-starter',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  scripts: [
+    { src: 'https://a.osintstarter.com/js/script.outbound-links.js', defer: true, 'data-domain': 'osintstarter.com' },
+  ],
+
+  plugins: [
+    require.resolve('docusaurus-lunr-search')
+  ],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -38,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/morganegautier/osint-starter/',
+            'https://github.com/morganegautier/osint-starter/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',

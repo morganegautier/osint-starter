@@ -56,12 +56,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/png/logo-color.png',
     navbar: {
       title: 'OSINT Starter Pack',
       logo: {
         alt: 'OSINT Starter Pack Logo',
-        src: 'img/logo.svg',
+        src: 'img/svg/logo-color.svg',
       },
       items: [
         {

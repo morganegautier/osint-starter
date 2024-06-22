@@ -2,18 +2,16 @@
 sidebar_position: 1
 ---
 
-# OSINT Starter
+# Welcome to OSINT Starter
 
-This project is a collection of resources and tools to help you get started with Open Source Intelligence (OSINT). The goal is to provide you with the information you need to start gathering intelligence from open sources, such as social media, websites, and other online platforms.
+This project is a collection of resources and tools designed to help you get started with Open Source Intelligence (OSINT). The goal is to provide you with the necessary information to begin gathering intelligence from open sources, such as social media, websites, and other online platforms.
 
 ## What is OSINT?
 
-Open Source Intelligence (OSINT) is the collection and analysis of information that is gathered from public, or open, sources. This includes newspapers, journals, radio, television, and the internet. The information gathered is used for intelligence purposes, such as identifying potential threats, criminal activity, and other security concerns.
+Open Source Intelligence, or OSINT, refers to the collection and analysis of information from publicly available sources. These sources may include websites, social networks, newspapers, forums, public databases, and more. The gathered information is used by investigators, journalists, security analysts, and even amateurs, for intelligence purposes, such as identifying potential threats, criminal activity, and other security concerns. The aim is to obtain valuable intelligence in an ethical and legal manner.
 
-## Contributing
+## Our mission
 
-If you would like to contribute to this project, please read the [CONTRIBUTING](CONTRIBUTING.md) file for more information.
+In a world where information becomes an invaluable resource, OSINT helps transform raw data into actionable intelligence. Whether you are involved in cybersecurity, criminal investigation, investigative journalism, or simply curious to understand how information can be used strategically, OSINT is a crucial skill.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Our aim in starting this project is to democratize access to open source intelligence by providing essential resources, clear guides, and key tools to help everyone progress in the field of OSINT. We believe that everyone should have the ability to explore and analyze public information effectively and responsibly.

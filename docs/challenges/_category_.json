@@ -1,0 +1,11 @@
+{
+  "position": 3,
+  "label": "Challenges",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Challenges"
+  }
+}

@@ -3,9 +3,9 @@
   "label": "Sourcing Games",
   "collapsible": true,
   "collapsed": true,
-  "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Sourcing Games"
+    "title": "Sourcing Games",
+    "slug": "/challenges/sourcing-games"
   }
 }

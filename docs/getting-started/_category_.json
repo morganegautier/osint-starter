@@ -2,10 +2,5 @@
   "position": 2,
   "label": "Getting Started",
   "collapsible": true,
-  "collapsed": false,
-  "className": "red",
-  "link": {
-    "type": "generated-index",
-    "title": "Getting Started"
-  }
+  "collapsed": false
 }

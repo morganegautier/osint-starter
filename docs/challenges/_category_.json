@@ -3,9 +3,9 @@
   "label": "Challenges",
   "collapsible": true,
   "collapsed": false,
-  "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Challenges"
+    "title": "Challenges",
+    "slug": "challenges"
   }
 }

@@ -3,6 +3,7 @@ title: "Unlock the basics: How to master Sourcing Games 1 with step-by-step guid
 description: Discover the step-by-step methods and solutions to conquer Sourcing Games 1. Learn essential sourcing skills and pass all levels with ease.
 image: /img/challenges/sourcing-games/sourcing-games-1.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills]
+sidebar_label: "Sourcing Games 1"
 ---
 
 # Sourcing Games 1 - Beginning with the basics

@@ -41,9 +41,9 @@ const config: Config = {
       'classic',
       {
         docs: {
+          path: './docs',
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/morganegautier/osint-starter/tree/main/',
         },
@@ -65,10 +65,10 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'docsSidebar',
+          type: 'doc',
           position: 'left',
-          label: 'Docs',
+          docId: 'challenges',
+          label: 'Challenges',
         },
         {
           href: 'https://github.com/morganegautier/osint-starter',
@@ -81,11 +81,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          // title: 'Docs',
           items: [
             {
-              label: 'Docs',
-              to: '/docs/intro',
+              label: 'Challenges',
+              to: '/challenges',
             },
           ],
         },

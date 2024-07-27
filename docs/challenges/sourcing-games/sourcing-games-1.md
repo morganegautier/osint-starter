@@ -74,7 +74,7 @@ By expanding the solution section below, you will see the password:
 
 ![Solution to game 1-04](/img/challenges/sourcing-games/sourcing-games-1-04.png "Solution to game 1-04")
 
-![Solution to game 1-04](/img/challenges/sourcing-games/sourcing-games-1-04_2.png "Solution to game 1-04")
+![Solution to game 1-04](/img/challenges/sourcing-games/sourcing-games-1-04-2.png "Solution to game 1-04")
 
 The good mail adress and file password is "**jamesj@recruitment.camp**".
 

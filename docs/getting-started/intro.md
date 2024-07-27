@@ -2,7 +2,7 @@
 slug: /intro
 title: Introduction to OSINT
 description: Discover the essentials of OSINT, from basic principles and data collection techniques to practical applications in security, cybersecurity, corporate intelligence, and more.
-image: ./img/world-network-nasa.jpg
+image: /img/getting-started/world-network-nasa.jpg
 keywords: [osint, introduction]
 ---
 

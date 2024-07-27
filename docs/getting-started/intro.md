@@ -1,5 +1,9 @@
 ---
 slug: /intro
+title: Introduction to OSINT
+description: Discover the essentials of OSINT, from basic principles and data collection techniques to practical applications in security, cybersecurity, corporate intelligence, and more.
+image: /img/getting-started/world-network-nasa.jpg
+keywords: [osint, introduction]
 ---
 
 # Introduction to OSINT
@@ -31,7 +35,7 @@ OSINT relies on a wide range of information sources. Here are some of the main c
 - **Traditional media**: Newspapers, magazines, TV programs, radio.
 - **Commercial databases**: Business directories, company registers.
 
-## OSINT Collection Process
+## OSINT collection process
 
 OSINT intelligence collection typically follows a structured process:
 

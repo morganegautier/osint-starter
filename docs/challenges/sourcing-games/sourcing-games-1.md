@@ -1,7 +1,7 @@
 ---
 title: "Unlock the basics: How to master Sourcing Games 1 with step-by-step guide"
 description: Discover the step-by-step methods and solutions to conquer Sourcing Games 1. Learn essential sourcing skills and pass all levels with ease.
-image: ./img/challenges/sourcing-games/sourcing-games-1.png
+image: /img/challenges/sourcing-games/sourcing-games-1.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills]
 ---
 
@@ -22,7 +22,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 1-01</summary>
 
-![Solution to game 1-01](./img/challenges/sourcing-games/sourcing-games-1-01.png "Solution to game 1-01")
+![Solution to game 1-01](/img/challenges/sourcing-games/sourcing-games-1-01.png "Solution to game 1-01")
 
 The password to reach the next level is "**games42**".
 
@@ -37,7 +37,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 1-02</summary>
 
-![Solution to game 1-02](./img/challenges/sourcing-games/sourcing-games-1-02.png "Solution to game 1-02")
+![Solution to game 1-02](/img/challenges/sourcing-games/sourcing-games-1-02.png "Solution to game 1-02")
 
 The password to reach the next level is "**boyce**".
 
@@ -52,7 +52,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 1-03</summary>
 
-![Solution to game 1-03](./img/challenges/sourcing-games/sourcing-games-1-03.png "Solution to game 1-03")
+![Solution to game 1-03](/img/challenges/sourcing-games/sourcing-games-1-03.png "Solution to game 1-03")
 
 The password to reach the next level is "**apr-17**".
 
@@ -72,9 +72,9 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 1-04</summary>
 
-![Solution to game 1-04](./img/challenges/sourcing-games/sourcing-games-1-04.png "Solution to game 1-04")
+![Solution to game 1-04](/img/challenges/sourcing-games/sourcing-games-1-04.png "Solution to game 1-04")
 
-![Solution to game 1-04](./img/challenges/sourcing-games/sourcing-games-1-04_2.png "Solution to game 1-04")
+![Solution to game 1-04](/img/challenges/sourcing-games/sourcing-games-1-04_2.png "Solution to game 1-04")
 
 The good mail adress and file password is "**jamesj@recruitment.camp**".
 
@@ -91,7 +91,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 1-05</summary>
 
-![Solution to game 1-05](./img/challenges/sourcing-games/sourcing-games-1-05.png "Solution to game 1-05")
+![Solution to game 1-05](/img/challenges/sourcing-games/sourcing-games-1-05.png "Solution to game 1-05")
 
 The password to reach the next level is "**Kolja**".
 
@@ -110,7 +110,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 1-06</summary>
 
-![Solution to game 1-06](./img/challenges/sourcing-games/sourcing-games-1-06.png "Solution to game 1-06")
+![Solution to game 1-06](/img/challenges/sourcing-games/sourcing-games-1-06.png "Solution to game 1-06")
 
 The password to reach the next level is "**007games**".
 

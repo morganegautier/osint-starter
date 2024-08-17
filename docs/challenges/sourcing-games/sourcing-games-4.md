@@ -33,7 +33,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 01</summary>
 
-![Solution to game 01](/img/challenges/sourcing-games/game-2/sourcing-games-4-01.png "Solution to game 01")
+![Solution to game 01](/img/challenges/sourcing-games/game-4/sourcing-games-4-01.png "Solution to game 01")
 
 The password to reach the next level is "**1864**".
 
@@ -53,7 +53,7 @@ The goal of Game 02 is to find the Twitter handle of a person from Rotterdam, wh
 
 Based on this information, let's search Google for the following query and look at the results: `twitter sourcer dragon slayer Rotterdam`.
 
-![Twitter profiles](/img/challenges/sourcing-games/game-2/sourcing-games-4-02-1.png "Twitter profiles")
+![Twitter profiles](/img/challenges/sourcing-games/game-4/sourcing-games-4-02-1.png "Twitter profiles")
 
 The search results point to Patrick Boonstra's Twitter profile, which seems to fit the description perfectly.
 
@@ -62,7 +62,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 02</summary>
 
-![Solution to game 02](/img/challenges/sourcing-games/game-2/sourcing-games-4-02-2.png "Solution to game 02")
+![Solution to game 02](/img/challenges/sourcing-games/game-4/sourcing-games-4-02-2.png "Solution to game 02")
 
 The password to reach the next level is "**patrickboonstra**".
 
@@ -86,7 +86,7 @@ First I searched for the pdf on the site "academia.edu", but that didn't give an
 
 The results obtained are as follows:
 
-![PDF](/img/challenges/sourcing-games/game-2/sourcing-games-4-03-1.png "PDF")
+![PDF](/img/challenges/sourcing-games/game-4/sourcing-games-4-03-1.png "PDF")
 
 The first PDF returned comes from the ResearchGate site and seems to match the description given. It is entitled "Basic Search Tips and Advanced Boolean Explained" and has been created by Joe Barker, Teaching Library, University of California, Berkeley.
 
@@ -95,7 +95,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 03</summary>
 
-![Solution to game 03](/img/challenges/sourcing-games/game-2/sourcing-games-4-03-2.png "Solution to game 03")
+![Solution to game 03](/img/challenges/sourcing-games/game-4/sourcing-games-4-03-2.png "Solution to game 03")
 
 The password to reach the next level is "**barker**".
 
@@ -117,7 +117,7 @@ The goal of Game 04 is to find a professor from Michigan State University specia
 
 Let's start by Googling the given information using the query: `Michigan State University SanFilippo Syndrome`. 
 
-![Google search](/img/challenges/sourcing-games/game-2/sourcing-games-4-04-1.png "Google search")
+![Google search](/img/challenges/sourcing-games/game-4/sourcing-games-4-04-1.png "Google search")
 
 The search results point to Dr. Margaret Z. Jones, M.D. Various sites confirm the given information: on [ResearchGate](https://www.researchgate.net/profile/Margaret-Jones-8), we learn that Margaret was indeed a professor at Michigan State University from January 1970 to July 2000, totaling 30 years of service. On [curekirby.org](https://curekirby.org/research-2/michigan-state-university/) we see that Margaret published work on SanFilippo Syndrome.
 
@@ -128,7 +128,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 04</summary>
 
-![Solution to game 04](/img/challenges/sourcing-games/game-2/sourcing-games-4-04-2.png "Solution to game 04")
+![Solution to game 04](/img/challenges/sourcing-games/game-4/sourcing-games-4-04-2.png "Solution to game 04")
 
 The password to reach the next level is "**1936jones**".
 
@@ -153,7 +153,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 05</summary>
 
-![Solution to game 05](/img/challenges/sourcing-games/game-2/sourcing-games-4-05.png "Solution to game 05")
+![Solution to game 05](/img/challenges/sourcing-games/game-4/sourcing-games-4-05.png "Solution to game 05")
 
 The password to reach the next level is "**cranford**".
 
@@ -180,9 +180,9 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 06</summary>
 
-![Solution to game 06](/img/challenges/sourcing-games/game-2/sourcing-games-4-06-1.png "Solution to game 06")
+![Solution to game 06](/img/challenges/sourcing-games/game-4/sourcing-games-4-06-1.png "Solution to game 06")
 
-![Solution to game 06](/img/challenges/sourcing-games/game-2/sourcing-games-4-06-2.png "Solution to game 06")
+![Solution to game 06](/img/challenges/sourcing-games/game-4/sourcing-games-4-06-2.png "Solution to game 06")
 
 The password to reach the next level is "**monkees**".
 
@@ -202,7 +202,7 @@ The aim of Game 07 is to identify an attendee of the PMSA 2016 conference who wo
 
 First, let's search for the PMSA 2016 conference's program with the following query: `pmsa 2016 conference attendees`. We find that three attendees were representing Pfizer at this conference: Andrew Aiken, Yalcin Baltali, and Aaron Curry.
 
-![Conference program](/img/challenges/sourcing-games/game-2/sourcing-games-4-07-1.png "Conference program")
+![Conference program](/img/challenges/sourcing-games/game-4/sourcing-games-4-07-1.png "Conference program")
 
 Next, let's search these three profiles on LinkedIn and see who is from Collegeville. According to his LinkedIn profile, Aaron Curry is the one who fits the most. At the conference date, he was working for Pfizer, based in Collegeville, PA.
 
@@ -211,7 +211,7 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 07</summary>
 
-![Solution to game 07](/img/challenges/sourcing-games/game-2/sourcing-games-4-07-2.png "Solution to game 07")
+![Solution to game 07](/img/challenges/sourcing-games/game-4/sourcing-games-4-07-2.png "Solution to game 07")
 
 The password to reach the next level is "**curry**".
 

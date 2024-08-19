@@ -8,7 +8,7 @@ sidebar_label: "Sourcing Games 2"
 
 # Sourcing Games 2 - Not all URLs are dead
 
-Here you can find the method and solutions to successfully pass [Sourcing games 2](https://sourcing.games/game-2/) which will guide you through the basics of sourcing.  Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Here you can find the method and solutions to successfully pass [Sourcing games 2](https://sourcing.games/game-2/) which will guide you through the basics of sourcing at an intermediate level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
 
 ## Game 01 - URL encoding
 
@@ -51,7 +51,7 @@ I can’t travel back in time, but in October 26, 1996 on microsoft.com, I saw t
 
 ### Objective
 
-The goal of Game 02 is to find information on a page from a given URL that has been indexed. The website in question is "microsoft.com," and the information you're searching for existed on the webpage on October 26, 1996.
+The goal of Game 02 is to find information on a page from a given URL that has been indexed. The website in question is "microsoft.com", and the information you're searching for existed on the webpage on October 26, 1996.
 
 ### Solution
 
@@ -78,11 +78,11 @@ LinkedIn disallows all robots to index some things, and these robots already kno
 
 ### Objective
 
-The aim of Game 04 is to find the email address to contact LinkedIn in order to apply for permission to crawl their website. To do so, you need to check the ```robots.txt``` file. The ```robots.txt``` file is a standard used by websites to communicate with web crawlers and other web robots. It is placed at the root of a website and contains directives that specify which parts of the site should not be crawled or indexed by search engines and other automated agents.
+The aim of Game 04 is to find the email address to contact LinkedIn in order to apply for permission to crawl their website. To do so, you need to check the `robots.txt` file. The robots.txt file is a standard used by websites to communicate with web crawlers and other web robots. It is placed at the root of a website and contains directives that specify which parts of the site should not be crawled or indexed by search engines and other automated agents.
 
 ### Solution
 
-To find the email address, check the robots.txt file of the LinkedIn website. The robots.txt file is located at the root of the website, so you can access it by visiting ```https://www.linkedin.com/robots.txt```. Look for the email address to apply for permission to crawl LinkedIn, and you will find the keyword you're searching for.
+To find the email address, check the robots.txt file of the LinkedIn website. The robots.txt file is located at the root of the website, so you can access it by visiting `https://www.linkedin.com/robots.txt`. Look for the email address to apply for permission to crawl LinkedIn, and you will find the keyword you're searching for.
 
 By expanding the solution section below, you will see the password:
 
@@ -109,11 +109,11 @@ The goal of Game 05 is to find the email address hidden behind a GitHub account.
 
 A way to find the email address behind a GitHub account is by using the git log command. Let's choose a repository, for example, "example-01-helloworld" and clone it:
 
-```git clone https://github.com/angularjs-gdit/example-01-helloworld.git```
+`git clone https://github.com/angularjs-gdit/example-01-helloworld.git`
 
-Then go to this cloned repository: ```cd example-01-helloworld```
+Then go to this cloned repository: `cd example-01-helloworld`
 
-And finally use the ```git log``` command to access to the commit history.
+And finally use the `git log` command to access to the commit history.
 
 There you will find the email address linked to the commit:
 
@@ -151,9 +151,9 @@ The goal of Game 06 is to find the name of a person, given some information. Her
 
 ### Solution
 
-To find the developer’s LinkedIn profile, use Google dorking. In your search query, enter your keywords and add ```site:linkedin.com``` to limit the search results to LinkedIn only:
+To find the developer’s LinkedIn profile, use Google dorking. In your search query, enter your keywords and add `site:linkedin.com` to limit the search results to LinkedIn only:
 
-```angular java junit python developer warsaw wroclaw krakow polish site:linkedin.com```
+`angular java junit python developer warsaw wroclaw krakow polish site:linkedin.com`
 
 Here is the search result:
 

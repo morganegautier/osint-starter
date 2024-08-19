@@ -8,13 +8,15 @@ sidebar_label: "Sourcing Games 1"
 
 # Sourcing Games 1 - Beginning with the basics
 
-Here you can find the method and solutions to successfully pass [Sourcing games 1](https://sourcing.games/game-1/) which will guide you through the basics of sourcing.  Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Here you can find the method and solutions to successfully pass [Sourcing games 1](https://sourcing.games/game-1/) which will guide you through the basics of sourcing at a beginner level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
 
 ## Game 01 - Use inspection tool
 
 ### Instructions
 
-Password from that page below will unlock next level. [OPEN SITE](http://inovace.eu/game01/)
+Password from that page below will unlock next level. 
+
+[OPEN SITE](http://inovace.eu/game01/)
 
 ### Objective
 

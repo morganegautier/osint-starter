@@ -130,7 +130,7 @@ The password to reach the next level is "**game147**".
 
 </details>
 
-## Game 05 - Exploring Twitter achives
+## Game 05 - Exploring Twitter acrhives
 
 ### Instructions
 

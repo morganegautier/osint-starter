@@ -1,8 +1,8 @@
 ---
-title: 
-description:
+title: "Mastering Sourcing Games 6: Solutions and advanced techniques from AirSource One"
+description: Discover how to conquer Sourcing Games 6 with advanced sourcing techniques. Learn how to solve tricky challenges in online sourcing from AirSource One 2017.
 image: /img/challenges/sourcing-games/sourcing-games.png
-keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
+keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, AirSource One]
 sidebar_label: "Sourcing Games 6"
 ---
 
@@ -115,3 +115,36 @@ In the penultimate paragraph of the article, it mentions that Streatham has 4,87
 The password to reach the next level is "**4870**".
 
 </details>
+
+## Game 05 - Identifying a Bitbucket user's surname
+
+### Instructions
+
+I love two things, reading all the IT mailing lists and the cool stuff this Bitbucket User is creating! What is their surname?
+
+### Objective
+
+The aim of Game 05 is to determine the surname of a Bitbucket user based on the projects they are working on. The provided link leads to their Bitbucket profile.
+
+### Solution
+
+By cliking on the [Bitbucket User link](https://bitbucket.org/kfj/), you are directed to the profile of a user named "kfj." To uncover more details about this user, such as their real name, explore one of their projects, for example, the "pv" project.
+
+To find the user’s full name, navigate to the "Commits" section from the left sidebar. In this section, you will see that the commits made by "kfj" are labeled with the user's real name, revealing their identity.
+
+By expanding the solution section below, you will see the password:
+
+<details>
+<summary>Solution to game 05</summary>
+
+The real name of the user "kfj" is Kay F. Jahnke.
+
+![Solution to game 05](/img/challenges/sourcing-games/game-6/sourcing-games-6-05.png "Solution to game 05")
+
+The password to reach the next level is "**jahnke**".
+
+</details>
+
+## Congratulations
+
+You just finished your sixth Sourcing Game! Hope to see you soon on Sourcing Game 7!

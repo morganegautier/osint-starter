@@ -1,14 +1,14 @@
 ---
-title: "Unlock the basics: How to master Sourcing Games 1 with step-by-step guide"
-description: Discover the step-by-step methods and solutions to conquer Sourcing Games 1. Learn essential sourcing skills and pass all levels with ease.
+title: "Unlock the basics: How to master Sourcing Game 1 with step-by-step guide"
+description: Discover the step-by-step methods and solutions to conquer Sourcing Game 1. Learn essential sourcing skills and pass all levels with ease.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
-sidebar_label: "Sourcing Games 1"
+sidebar_label: "Sourcing Game 1"
 ---
 
-# Sourcing Games 1 - Beginning with the basics
+# Sourcing Game 1 - Beginning with the basics
 
-Here you can find the method and solutions to successfully pass [Sourcing games 1](https://sourcing.games/game-1/) which will guide you through the basics of sourcing at a beginner level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Here you can find the method and solutions to successfully pass [Sourcing Game 1](https://sourcing.games/game-1/) which will guide you through the basics of sourcing at a beginner level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
 
 ## Game 01 - Use inspection tool
 
@@ -94,7 +94,7 @@ The password to reach the next level is "**apr-17**".
 
 ### Instructions
 
-I met James Jones a few years ago, and he helped me with some things at recruitment.camp. To speed up our communication, I gave him an email at recruitment.camp. However, I had to learn how to create a professional email address, especially since James didn’t want to have a dot in the email address. His email is the password to the file below (Download file).
+I met James Jones a few years ago, and he helped me with some things at recruitment.camp. To speed up our communication, I gave him an email at recruitment.camp. However, I had to learn how to create a professional email address, especially since James didn’t want to have a dot in the email address. His email is the password to the file below.
 
 Hint: Don’t let bounce, disposable, spam-trap and deactivated emails decrease your sending reputation.
 

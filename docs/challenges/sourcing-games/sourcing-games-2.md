@@ -1,14 +1,14 @@
 ---
-title: "Unlocking Sourcing Games 2: step-by-step guide to winning"
-description: Unlock the secrets to passing Sourcing Games 2. Learn URL encoding, use Wayback Machine, explore GitHub commits, find LinkedIn profiles, and uncover document metadata.
+title: "Unlocking Sourcing Game 2: step-by-step guide to winning"
+description: Unlock the secrets to passing Sourcing Game 2. Learn URL encoding, use Wayback Machine, explore GitHub commits, find LinkedIn profiles, and uncover document metadata.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
-sidebar_label: "Sourcing Games 2"
+sidebar_label: "Sourcing Game 2"
 ---
 
-# Sourcing Games 2 - Not all URLs are dead
+# Sourcing Game 2 - Not all URLs are dead
 
-Here you can find the method and solutions to successfully pass [Sourcing games 2](https://sourcing.games/game-2/) which will guide you through the basics of sourcing at an intermediate level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Here you can find the method and solutions to successfully pass [Sourcing Games 2](https://sourcing.games/game-2/) which will guide you through the basics of sourcing at an intermediate level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
 
 ## Game 01 - URL encoding
 

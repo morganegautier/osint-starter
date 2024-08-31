@@ -1,0 +1,11 @@
+{
+  "position": 1,
+  "label": "Sourcing Games",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Sourcing Games",
+    "slug": "/challenges/sourcing-games"
+  }
+}

@@ -1,14 +1,14 @@
 ---
-title: "Mastering Sourcing Games 4: strategies to overcome data sourcing challenges"
-description: Discover creative methods and solutions to conquer Sourcing Games 4. Learn advanced strategies for data sourcing, with a focus on perseverance and problem-solving.
+title: "Mastering Sourcing Game 4: strategies to overcome data sourcing challenges"
+description: Discover creative methods and solutions to conquer Sourcing Game 4. Learn advanced strategies for data sourcing, with a focus on perseverance and problem-solving.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
-sidebar_label: "Sourcing Games 4"
+sidebar_label: "Sourcing Game 4"
 ---
 
-# Sourcing Games 4 - Try and fail, but never fail to try
+# Sourcing Game 4 - Try and fail, but never fail to try
 
-Here you can find the method and solutions to successfully pass [Sourcing Games 4](https://sourcing.games/game-4/) which will guide you through the basics of sourcing at an advanced level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Here you can find the method and solutions to successfully pass [Sourcing Game 4](https://sourcing.games/game-4/) which will guide you through the basics of sourcing at an advanced level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
 
 ## Game 01 - Finding who Boolean is
 
@@ -26,12 +26,12 @@ First, let's identify who `Boolean` refers to. A quick search for Boolean death 
 
 To find out the year of his death, let's refer to his Wikipedia page or other reliable sources.
 
-George Boole died in 1864.
-
 By expanding the solution section below, you will see the password:
 
 <details>
 <summary>Solution to game 01</summary>
+
+George Boole died in 1864.
 
 ![Solution to game 01](/img/challenges/sourcing-games/game-4/sourcing-games-4-01.png "Solution to game 01")
 

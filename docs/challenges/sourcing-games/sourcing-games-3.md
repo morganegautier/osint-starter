@@ -1,14 +1,14 @@
 ---
-title: "Mastering Sourcing Games 3: creative methods for advanced data sourcing"
-description: Unlock solutions to Sourcing Games 3 with our detailed guide. Learn advanced sourcing techniques and multiple approaches to excel in data discovery challenges.
+title: "Mastering Sourcing Game 3: creative methods for advanced data sourcing"
+description: Unlock solutions to Sourcing Game 3 with our detailed guide. Learn advanced sourcing techniques and multiple approaches to excel in data discovery challenges.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
-sidebar_label: "Sourcing Games 3"
+sidebar_label: "Sourcing Game 3"
 ---
 
-# Sourcing Games 3 - In sourcing, you need to be creative on how to find data
+# Sourcing Game 3 - In sourcing, you need to be creative on how to find data
 
-Here you can find the method and solutions to successfully pass [Sourcing games 3](https://sourcing.games/game-3/) which will guide you through the basics of sourcing at an advanced level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Here you can find the method and solutions to successfully pass [Sourcing Game 3](https://sourcing.games/game-3/) which will guide you through the basics of sourcing at an advanced level. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
 
 ## Game 01 - Exploring URLs
 
@@ -90,12 +90,12 @@ Select the link to Jon Skeet's LinkedIn profile to find detailed information abo
 
 ![LinkedIn profiles](/img/challenges/sourcing-games/game-3/sourcing-games-3-03-2.png "LinkedIn profiles")
 
-According to his LinkedIn profile, Jon Skeet was working for Google in 2020.
-
 By expanding the solution section below, you will see the password:
 
 <details>
 <summary>Solution to game 03</summary>
+
+According to his LinkedIn profile, Jon Skeet was working for Google in 2020.
 
 ![Solution to game 03](/img/challenges/sourcing-games/game-3/sourcing-games-3-03-3.png "Solution to game 03")
 
@@ -146,7 +146,7 @@ With Twitter Advanced Search, it's easy to find specific tweets using operators.
 
 Here we will search through tweets from a particular Twitter account using the `from:` operator, and limit our searches by specific dates with the `since:` and `until:` operators. This gives us the following query to enter in the Twitter Advanced Search bar:
 
-`from:Chase until:2019-06-01 since:2019-04-30`
+`from:Chase since:2019-04-30 until:2019-06-01`
 
 All you have to do next is find the Tweet you are looking for among this selection.
 
@@ -188,7 +188,7 @@ Luckily, the first profile seems to match the description given: a Californian d
 
 ![Solution to game 06](/img/challenges/sourcing-games/game-3/sourcing-games-3-06-2.png "Solution to game 06")
 
-All that remains is to search for the person's LinkedIn profile in order to confirm their username using the following search: Branden Murray site:linkedin.com, and look for "Branden Murray" LinkedIn profiles.
+All that remains is to search for the person's LinkedIn profile in order to confirm their username using the following search: `Branden Murray site:linkedin.com,` and look for "Branden Murray" LinkedIn profiles.
 
 By expanding the solution section below, you will see the password:
 

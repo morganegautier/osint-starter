@@ -71,6 +71,10 @@ const config: Config = {
           label: 'Challenges',
         },
         {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/morganegautier/osint-starter',
           label: 'GitHub',
           position: 'right',

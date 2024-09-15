@@ -6,9 +6,9 @@ keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, S
 sidebar_label: "Sourcing Games 5"
 ---
 
-# Sourcing Games 5 - SourceCon 2017
+# Sourcing Game 5 - SourceCon 2017
 
-Here you can find the method and solutions to successfully pass [Sourcing games 5](https://sourcing.games/game-5/) which will guide you through the basics of sourcing at an advanced level. This game was created for spring SourceCon 2017. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Here you can find the method and solutions to successfully pass [Sourcing Game 5](https://sourcing.games/game-5/) which will guide you through the basics of sourcing at an advanced level. This game was created for spring SourceCon 2017. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
 
 ## Game 01 - Finding twice SourceCon GrandMaster
 
@@ -30,6 +30,8 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 01</summary>
 
+It appears that Michael Notaro, the first winner of the GrandMaster challenge, won it in two successive years: 2007 and 2008.
+
 ![Solution to game 01](/img/challenges/sourcing-games/game-5/sourcing-games-5-01.png "Solution to game 01")
 
 The password to reach the next level is "**2007-2008**".
@@ -49,7 +51,7 @@ The goal of Game 02 is to find out the first post from 2007 by Gary Vaynerchuk o
 
 ### Solution
 
-With Twitter Advanced Search, it's easy to find specific tweets using operators. These operators allow you to specify criteria like a date range, a person, a phrase, a geographic area, and more.
+With [Twitter Advanced Search](https://www.morgane-gautier.com/master-twitter-advanced-search-operators), it's easy to find specific tweets using operators. These operators allow you to specify criteria like a date range, a person, a phrase, a geographic area, and more.
 
 First, find Gary Vaynerchuk's Twitter account. His handle is @garyvee, and his account was created in May 2007, which likely corresponds to the date of his first tweet.
 
@@ -84,7 +86,7 @@ The goal of Game 03 is to find the account name of Jim Schnyder's blog that he s
 
 ### Solution
 
-Jim Schnyder has written articles on several blogs. By Googling Jim Schnyder blog, I found his blog hosted by Blogger that fits the given description. This blog, [Corporate Recruiter](https://corprecruiter.blogspot.com/), had its last post in July 2011 and contains 19 posts published between 2009 and 2011.
+Jim Schnyder has written articles on several blogs. By Googling `Jim Schnyder blog`, I found his blog hosted by Blogger that fits the given description. This blog, [Corporate Recruiter](https://corprecruiter.blogspot.com/), had its last post in July 2011 and contains 19 posts published between 2009 and 2011.
 
 By expanding the solution section below, you will see the password:
 

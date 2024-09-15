@@ -8,7 +8,7 @@ sidebar_label: "Sourcing Game 5"
 
 # Sourcing Games 5 - SourceCon 2017
 
-Here you can find the method and solutions to successfully pass [Sourcing games 5](https://sourcing.games/game-5/) which will guide you through the basics of sourcing at an advanced level. This game was created for spring SourceCon 2017. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Vous trouverez ici la méthode et les solutions pour terminer avec succès le [Sourcing Game 5](https://sourcing.games/game-5/), conçu pour vous initier aux fondamentaux du sourcing à un niveau avancé. Notez qu'il n'existe pas une seule solution correcte, plusieurs approches sont envisageables. L'essentiel est de réussir les exercices en utilisant les méthodes avec lesquelles vous êtes le plus à l'aise.
 
 ## Game 01 - Trouver le double GrandMaster du SourceCon
 

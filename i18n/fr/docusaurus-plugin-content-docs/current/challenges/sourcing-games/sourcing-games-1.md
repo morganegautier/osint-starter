@@ -179,4 +179,4 @@ Le mot de passe pour atteindre le niveau suivant est "**007games**".
 
 ## Félicitations
 
-Vous venez de termier votre premier Sourcing Game ! Nous espérons vous revoir bientôt pour le Sourcing Game 2 !
+Vous venez de termier votre premier Sourcing Game ! Nous espérons vous revoir très vite pour le Sourcing Game 2 !

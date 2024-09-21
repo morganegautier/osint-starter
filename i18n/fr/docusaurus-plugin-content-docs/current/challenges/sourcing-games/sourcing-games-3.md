@@ -203,4 +203,4 @@ Le mot de passe pour atteindre le niveau suivant est "**brandenkmurray**".
 
 ## Félicitations
 
-Vous venez de terminer votre troisième Sourcing Game ! Nous espérons vous revoir bientôt pour le Sourcing Game 4 !
+Vous venez de terminer votre troisième Sourcing Game ! Nous espérons vous revoir très vite pour le Sourcing Game 4 !

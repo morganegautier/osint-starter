@@ -1,14 +1,14 @@
 ---
-title: "Sourcing Games 5: Solutions et méthodes pour réussir le SourceCon 2017"
+title: "Sourcing Game 5: Solutions et méthodes pour réussir le SourceCon 2017"
 description: Découvrez les solutions pour réussir le Sourcing Game 5, présenté au SourceCon 2017. DApprenez à maîtriser le sourcing avec des astuces pratiques et des méthodes éprouvées.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, SourceCon]
 sidebar_label: "Sourcing Game 5"
 ---
 
-# Sourcing Games 5 - SourceCon 2017
+# Sourcing Game 5 - SourceCon 2017
 
-Vous trouverez ici la méthode et les solutions pour terminer avec succès le [Sourcing Game 5](https://sourcing.games/game-5/), conçu pour vous initier aux fondamentaux du sourcing à un niveau avancé. Notez qu'il n'existe pas une seule solution correcte, plusieurs approches sont envisageables. L'essentiel est de réussir les exercices en utilisant les méthodes avec lesquelles vous êtes le plus à l'aise.
+Vous trouverez ici la méthode et les solutions pour terminer avec succès le [Sourcing Game 5](https://sourcing.games/game-5/), conçu pour vous initier aux fondamentaux du sourcing à un niveau avancé. Ce Sourcing Game a été créé pour SourceCon au printemps 2017. Notez qu'il n'existe pas une seule solution correcte, plusieurs approches sont envisageables. L'essentiel est de réussir les exercices en utilisant les méthodes avec lesquelles vous êtes le plus à l'aise.
 
 ## Game 01 - Trouver le double GrandMaster du SourceCon
 
@@ -212,6 +212,6 @@ Le mot de passe pour atteindre le niveau suivant est "**justafish**".
 
 </details>
 
-## Congratulations
+## Félicitations
 
-Vous venez de terminer votre cinquième Sourcing Game ! Nous espérons vous revoir bientôt pour le Sourcing Game 6 !
+Vous venez de terminer votre cinquième Sourcing Game ! Nous espérons vous revoir très vite pour le Sourcing Game 6 !

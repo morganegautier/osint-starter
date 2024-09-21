@@ -219,4 +219,4 @@ Le mot de passe pour accéder au niveau suivant est "**curry**".
 
 ## Félicitations
 
-Vous venez de terminer votre quatrième Sourcing Game ! Nous espérons vous revoir bientôt pour le Sourcing Game 5 !
+Vous venez de terminer votre quatrième Sourcing Game ! Nous espérons vous revoir très vite pour le Sourcing Game 5 !

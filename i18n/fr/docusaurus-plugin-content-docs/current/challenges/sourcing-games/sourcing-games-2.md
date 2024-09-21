@@ -204,4 +204,4 @@ Le mot de passe pour accéder au niveau suivant est "**42sourcer**".
 
 ## Félicitations
 
-Vous venez de terminer votre deuxième Sourcing Game ! Nous espérons vous revoir bientôt pour le Sourcing Game 3 !
+Vous venez de terminer votre deuxième Sourcing Game ! Nous espérons vous revoir très vite pour le Sourcing Game 3 !

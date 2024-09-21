@@ -1,14 +1,14 @@
 ---
-title: "Mastering Sourcing Games 6: Solutions and advanced techniques from AirSource One"
-description: Discover how to conquer Sourcing Games 6 with advanced sourcing techniques. Learn how to solve tricky challenges in online sourcing from AirSource One 2017.
+title: "Mastering Sourcing Game 6: Solutions and advanced techniques from AirSource One"
+description: Discover how to conquer Sourcing Game 6 with advanced sourcing techniques. Learn how to solve tricky challenges in online sourcing from AirSource One 2017.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, AirSource One]
-sidebar_label: "Sourcing Games 6"
+sidebar_label: "Sourcing Game 6"
 ---
 
-# Sourcing Games 6 - AirSource One
+# Sourcing Game 6 - AirSource One
 
-Here you can find the method and solutions to successfully pass [Sourcing games 6](https://sourcing.games/game-6/) which will guide you through the basics of sourcing at an advanced level. This game was created for spring AirSource One in 2017. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
+Here you can find the method and solutions to successfully pass [Sourcing game 6](https://sourcing.games/game-6/) which will guide you through the basics of sourcing at an advanced level. This game was created for spring AirSource One in 2017. Remember, there isn't just one solution; there are multiple ways to approach the games. The key is to be comfortable with the method you choose.
 
 ## Game 01 - Exploring Wikipedia
 

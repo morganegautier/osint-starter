@@ -1,9 +1,9 @@
 ---
-title: "Mastering Sourcing Games 5: advanced techniques from SourceCon 2017"
-description: Unlock the secrets to mastering Sourcing Games 5 with advanced techniques and solutions inspired by SourceCon 2017. Learn how to tackle complex sourcing challenges effectively.
+title: "Mastering Sourcing Game 5: advanced techniques from SourceCon 2017"
+description: Unlock the secrets to mastering Sourcing Game 5 with advanced techniques and solutions inspired by SourceCon 2017. Learn how to tackle complex sourcing challenges effectively.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, SourceCon]
-sidebar_label: "Sourcing Games 5"
+sidebar_label: "Sourcing Game 5"
 ---
 
 # Sourcing Game 5 - SourceCon 2017

@@ -7,6 +7,22 @@
     "message": "Premiers pas",
     "description": "The label for category Getting Started in sidebar docsSidebar"
   },
+  "sidebar.docsSidebar.category.Training": {
+    "message": "Formation",
+    "description": "The label for category Training in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Training.link.generated-index.title": {
+    "message": "Formation",
+    "description": "The generated-index page title for category Training in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.AFP Digital Investigation Techniques": {
+    "message": "AFP Investigation Numérique",
+    "description": "The label for category AFP Digital Investigation Techniques in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.AFP Digital Investigation Techniques.link.generated-index.title": {
+    "message": "AFP Investigation Numérique",
+    "description": "The generated-index page title for category AFP Digital Investigation Techniques in sidebar docsSidebar"
+  },
   "sidebar.docsSidebar.category.Challenges": {
     "message": "Challenges",
     "description": "The label for category Challenges in sidebar docsSidebar"

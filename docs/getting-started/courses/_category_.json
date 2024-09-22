@@ -1,0 +1,11 @@
+{
+  "position": 1,
+  "label": "OSINT Training",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "OSINT Training",
+    "slug": "/getting-started/training"
+  }
+}

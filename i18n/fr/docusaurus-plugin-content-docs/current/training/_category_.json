@@ -1,11 +1,11 @@
 {
   "position": 2,
-  "label": "Formation",
+  "label": "Training",
   "collapsible": true,
   "collapsed": true,
   "link": {
     "type": "generated-index",
-    "title": "Formation",
+    "title": "Training",
     "slug": "training"
   }
 }

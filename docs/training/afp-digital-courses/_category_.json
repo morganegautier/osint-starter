@@ -1,0 +1,10 @@
+{
+  "position": 1,
+  "label": "AFP Digital Courses",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "title": "AFP Digital Courses",
+    "slug": "training/afp-digital-courses"
+  }
+}

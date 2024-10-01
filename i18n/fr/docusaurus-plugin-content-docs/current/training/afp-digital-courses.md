@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+title: "AFP Digital Course : Techniques d'investigation numérique"
+description: "Accédez aux cours en ligne gratuits d'enquêtes numériques de l'AFP. Apprenez à vérifier le contenu, utiliser la géolocalisation et détecter la désinformation."
+keywords: [AFP Digital Courses, OSINT]
+sidebar_label: "AFP Digital Courses"
 ---
 
 # AFP Digital Course : Techniques d'investigation numérique

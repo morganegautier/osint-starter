@@ -2,7 +2,7 @@
   "position": 2,
   "label": "Training",
   "collapsible": true,
-  "collapsed": true,
+  "collapsed": false,
   "link": {
     "type": "generated-index",
     "title": "Training",

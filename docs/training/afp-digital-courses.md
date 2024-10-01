@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+title: "AFP Digital Courses : Digital Investigation Techniques"
+description: "Explore free online courses on digital investigation, OSINT, and fact-checking, designed by AFP. Learn skills like image verification, geolocation, and detecting disinformation."
+keywords: [AFP Digital Courses, OSINT]
+sidebar_label: "AFP Digital Courses"
 ---
 
 # AFP Digital Courses : Digital Investigation Techniques

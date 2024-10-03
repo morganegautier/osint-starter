@@ -39,7 +39,7 @@ Example: `dog -cat` will display results containing "dog" but exclude all those 
 
 - **`*`** : The asterisk is a wildcard that can replace one or more unknown or variable words in a search.
 
-Example: `best * of 2024` will display results with different suggestions such as "best movie of 2024," "best book of 2024," etc.
+Example: `best * of 2024` will display results with different suggestions such as "best movie of 2024", "best book of 2024", etc.
 
 
 The main advanced search operators are:

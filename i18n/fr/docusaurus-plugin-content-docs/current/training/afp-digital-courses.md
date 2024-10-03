@@ -59,12 +59,12 @@ Exemple : `filetype:pdf chat` affichera uniquement les fichiers PDF correspondan
 
 Dans ce second module, vous apprendrez les bases de la recherche sur les réseaux sociaux.
 
-Sur `X`, vous découvrirez l'utilisation de la recherche avancée, qui vous permettra de filtrer vos recherches de manière précise grâce à différents critères (compte, date, langue, nombre de republications, etc.). Vous apprendrez également à créer des listes, publiques ou privées, et comprendrez leur utilité.
+Sur **X**, vous découvrirez l'utilisation de la recherche avancée, qui vous permettra de filtrer vos recherches de manière précise grâce à différents critères (compte, date, langue, nombre de republications, etc.). Vous apprendrez également à créer des listes, publiques ou privées, et comprendrez leur utilité.
 
-Sur `Bluesky`, vous explorerez les principaux opérateurs de recherche, très similaires à ceux de X, ainsi que l'outil de veille `deck.blue` , qui offre une vue multi-colonnes pour suivre simultanément votre fil d’actualité, vos notifications, vos listes, et plus encore. Cet outil intègre également des fonctions de gestion multi-comptes et l'ajout de colonnes basées sur des hashtags.
+Sur **Bluesky**, vous explorerez les principaux opérateurs de recherche, très similaires à ceux de X, ainsi que l'outil de veille **[deck.blue](https://deck.blue/)**, qui offre une vue multi-colonnes pour suivre simultanément votre fil d’actualité, vos notifications, vos listes, et plus encore. Cet outil intègre également des fonctions de gestion multi-comptes et l'ajout de colonnes basées sur des hashtags.
 
-Sur `Facebook`, un réseau plus restrictif en matière de recherche avancée comparé à X, vous apprendrez à rechercher des informations principalement au sein des groupes et des pages. Vous serez initié à l'outil non public `Who posted what?`, qui permet d'effectuer des recherches par mots-clés sur des publications spécifiques, avec des filtres par date, lieu et utilisateur pour trouver du contenu pertinent.
+Sur **Facebook**, un réseau plus restrictif en matière de recherche avancée comparé à X, vous apprendrez à rechercher des informations principalement au sein des groupes et des pages. Vous serez initié à l'outil non public **[Who posted what?](https://whopostedwhat.com/)**, qui permet d'effectuer des recherches par mots-clés sur des publications spécifiques, avec des filtres par date, lieu et utilisateur pour trouver du contenu pertinent.
 
-Sur `Instagram`, où les options de recherche sont plus limitées, vous verrez comment rechercher efficacement à travers des hashtags ou la géolocalisation.
+Sur **Instagram**, où les options de recherche sont plus limitées, vous verrez comment rechercher efficacement à travers des hashtags ou la géolocalisation.
 
-Enfin pour `Snapchat`, vous apprendrez à utiliser la carte pour accéder aux vidéos publiques publiées par les utilisateurs.
+Enfin pour **Snapchat**, vous apprendrez à utiliser la carte pour accéder aux vidéos publiques publiées par les utilisateurs.

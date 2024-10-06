@@ -15,7 +15,7 @@ Pour toute personne intéressée par l’OSINT (Open Source Intelligence), ce si
 
 Le cours débutant comporte 5 modules qui vont apprendront les bases de la recherche avancée sur internet.
 
-### Module 1 : Affinez vos recherches pour n’obtenir que ce dont vous avez besoin
+### Module 1 : Recherche sur internet
 
 Dans ce premier module, vous apprendrez à affiner vos recherches sur un moteur de recherche, en éliminant les résultats inutiles. Pour cela, vous découvrirez comment utiliser les opérateurs de recherche et les combiner pour créer des requêtes plus complexes. Vous apprendrez également à utiliser les filtres de date pour obtenir des résultats limités à une période spécifique. Cela vous aidera à affiner vos recherches efficacement et à cibler les informations pertinentes selon vos besoins.
 
@@ -55,7 +55,7 @@ Exemple : `inurl:blog chien` affichera des résultats dont l'URL contient "blog"
 
 Exemple : `filetype:pdf chat` affichera uniquement les fichiers PDF correspondant à la recherche "chat".
 
-### Module 2 : Améliorez vos recherches et veilles sur les réseaux sociaux
+### Module 2 : Réseaux sociaux
 
 Dans ce second module, vous apprendrez les bases de la recherche sur les réseaux sociaux.
 
@@ -68,3 +68,11 @@ Sur **Facebook**, un réseau plus restrictif en matière de recherche avancée c
 Sur **Instagram**, où les options de recherche sont plus limitées, vous verrez comment rechercher efficacement à travers des hashtags ou la géolocalisation.
 
 Enfin pour **Snapchat**, vous apprendrez à utiliser la carte pour accéder aux vidéos publiques publiées par les utilisateurs.
+
+### Module 3 : Retrouver une archive
+
+Dans ce troisième module, vous explorerez des outils d'archivage qui vous permettront à la fois de remonter dans le passé sur internet en retrouvant d'anciennes versions de pages web, et de sauvegarder des ressources pour le futur en archivant des sites web.
+
+Vous apprendrez à utiliser le moteur **[Wayback Machine](https://web.archive.org/)**, un outil en ligne qui permet de consulter les archives de sites web à différentes dates. Il vous offre ainsi l'accès à des versions antérieures d'une page, même si celle-ci a été modifiée ou supprimée, et vous permet également d'archiver vous-même des pages web.
+
+Vous découvrirez également comment accéder aux **pages en cache**, qui sont des copies temporaires de sites web stockées par des moteurs de recherche ou des services d'archivage. Ces pages en cache permettent de consulter une version antérieure d'un site, même si celui-ci a été modifié ou est temporairement inaccessible en ligne.

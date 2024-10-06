@@ -1,0 +1,109 @@
+---
+title: ""
+description: ""
+image: /img/challenges/sourcing-games/sourcing-games.png
+keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
+sidebar_label: "Sourcing Game 7"
+---
+
+# Sourcing Game 7 - Sourcing Game axé sur le domaine informatique
+
+Vous trouverez ici la méthode et les solutions pour terminer avec succès le [Sourcing Game 7](https://sourcing.games/game-7/), conçu pour vous initier aux fondamentaux du sourcing à un niveau avancé. Notez qu'il n'existe pas une seule solution correcte, plusieurs approches sont envisageables. L'essentiel est de réussir les exercices en utilisant les méthodes avec lesquelles vous êtes le plus à l'aise.
+
+## Game 01 - Trouver un identifiant GitHub
+
+### Instructions
+
+What is the GitHub ID for this GitHub profile?
+
+### Objectif
+
+L'objectif du Jeu 01 est de trouver l'ID GitHub correspondant à un profil GitHub particulier.
+
+### Solution
+
+Sur GitHub, le moyen le plus simple de trouver l'ID d'un utilisateur est de se rendre sur sa page de profil et de cliquer sur son avatar (photo de profil). Une fois cliquée, l'URL affichera l'ID de l'utilisateur GitHub. De manière alternative, vous pouvez inspecter le code source de la page pour trouver l'ID si nécessaire.
+
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
+
+<details>
+<summary>Solution du niveau 01</summary>
+
+![Solution du niveau 01](/img/challenges/sourcing-games/game-6/sourcing-games-6-01.png "Solution du niveau 01")
+
+Le mot de passe pour atteindre le niveau suivant est "**2300056**".
+
+</details>
+
+## Game 02 - Trouver une URL valide
+
+### Instructions
+
+Sourcing requires time when searching for an answer, and there are many ways to get the answer you are looking for.
+
+One is the hard way (you will see what I mean by that), and the other is the clever way.
+
+I am not using word “the easy way” because, in sourcing, there is no easy way. You only have luck. Choose your way or try your luck!
+
+### Objectif
+
+L'objectif de ce jeu est de trouver une URL valide parmi une liste de 300.
+
+### Solution
+
+Plutôt que de vérifier manuellement chaque URL jusqu'à tomber par hasard sur la bonne, adoptons une approche plus intelligente en automatisant la tâche avec Google Sheets et un Google Apps Script.
+
+**1. Créer une Google Sheets** : Ouvrez une nouvelle Google Sheets et collez votre liste d'URLs dans la première colonne.
+
+**2. Créer un script** : Créez un script qui vérifiera le statut de chaque URL. Les codes de statut HTTP les plus courants sont :
+
+- **200** pour une page accessible
+- **301** pour une redirection permanente
+- **404** pour page non trouvée
+
+Pour créer ce script, allez dans le menu Extensions de votre Google Sheets et sélectionnez Apps Script. Voici un exemple de script inspiré et adapté d'un tutoriel du site [No Fluff Digital](https://nofluffdigital.com/blog/seo/google-app-scripts-url-checker/) :
+
+```
+function CheckURL(url){
+
+  var options = {
+    
+    'muteHttpExceptions': true,
+
+    'followRedirects': true
+
+  };
+
+  var response = UrlFetchApp.fetch(url, options);
+
+  return response.getResponseCode();
+
+}
+```
+
+**3. Déployer le script** : Enregistrez votre script et déployez-le en choisissant "Nouveau déploiement" et en sélectionnant votre bibliothèque.
+
+**4. Vérifier le statut des URLs** : De retour dans votre feuille Google, créez une deuxième colonne pour y stocker les codes de statut des URLs, en appelant la foncti`on CheckURL()` que vous avez créée.
+
+![CheckURL()](/img/challenges/sourcing-games/game-7/sourcing-games-7-02-1.png "CheckURL()")
+
+**5. Analyser les résultats** : Après avoir exécuté le script, vous verrez que 299 URLs renvoient un code 404, tandis qu'une seule aura un code 200, indiquant que cette URL est valide. Il vous suffit ensuite de la vérifier dans votre navigateur pour le confirmer.
+
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
+
+<details>
+<summary>Solution du niveau 01</summary>
+
+![URL valide](/img/challenges/sourcing-games/game-7/sourcing-games-7-02-2.png "URL valide")
+
+L'URL valide est : `url.inovace.eu/vkeb6uz6.html`
+
+![Solution to game 02](/img/challenges/sourcing-games/game-7/sourcing-games-7-02-3.png "Solution to game 02")
+
+Le mot de passe pour atteindre le niveau suivant est "**solution47**".
+
+</details>
+
+## Félicitations
+
+Vous venez de terminer votre septième Sourcing Game ! Nous espérons vous revoir très vite pour le Sourcing Game 8 !

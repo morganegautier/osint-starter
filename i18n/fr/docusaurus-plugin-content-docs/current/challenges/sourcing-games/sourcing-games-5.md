@@ -25,7 +25,7 @@ L'objectif du niveau 01 est de découvrir qui est la première personne à avoir
 
 Il suffit de rechercher sur Google avec la requête suivante : `grandmaster challenge sourcecon` et de sélectionner la page `grandmaster` du site [Sourcecon](https://www.sourcecon.com/grandmaster).
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 01</summary>
@@ -61,7 +61,7 @@ Utilisez l'opérateur `from:` pour rechercher parmi les tweets de ce compte, et 
 
 Sélectionnez l'onglet "latest" pour voir les tweets publiés dans l'ordre chronologique et trouvez le premier tweet parmi cette sélection.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 02</summary>
@@ -88,7 +88,7 @@ L'objectif du niveau 03 est de trouver le nom du blog de Jim Schnyder qu'il a ce
 
 Jim Schnyder a écrit des articles sur plusieurs blogs. En recherchant `blog Jim Schnyder` sur Google, j'ai trouvé son blog hébergé sur Blogger qui correspond à la description donnée. Ce blog, [Corporate Recruiter](https://corprecruiter.blogspot.com/), a vu son dernier article être publié en juillet 2011 et contient 19 articles publiés entre 2009 et 2011.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 03</summary>
@@ -124,7 +124,7 @@ Voici le résultat de la recherche :
 
 Un seul profil semble correspondre parfaitement. Confirmons cela avec son profil LinkedIn.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 04</summary>
@@ -158,7 +158,7 @@ Bien que les instructions mentionnent Twitter, il sera plus facile d'utiliser Li
 
 Nous obtenons une liste de profils LinkedIn à tester.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 05</summary>
@@ -199,7 +199,7 @@ Nous obtenons une liste de profils Flicker à tester :
 
 ![Solution du niveau 06](/img/challenges/sourcing-games/game-5/sourcing-games-5-06-1.png "Solution du niveau 06")
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 06</summary>

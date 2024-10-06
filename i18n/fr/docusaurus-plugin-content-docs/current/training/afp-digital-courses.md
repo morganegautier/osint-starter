@@ -17,41 +17,54 @@ Le cours débutant comporte 5 modules qui vont apprendront les bases de la reche
 
 ### Module 1 : Affinez vos recherches pour n’obtenir que ce dont vous avez besoin
 
-Dans ce premier module, vous apprendrez à affiner vos recherches sur votre moteur de recherche afin d'évacuer les résultats superflus. Pour cela, vous verrez comment utiliser les opérateurs de recherche et les associer afin de créer des combinaisons complexes. Vous apprendrez également à utiliser les paramètres de date de votre moteur de recherche afin d'obtenir des résultats compris dans une période donnée. Cela vous aidera à affiner vos recherches efficacement et à cibler les informations pertinentes selon vos besoins.
+Dans ce premier module, vous apprendrez à affiner vos recherches sur un moteur de recherche, en éliminant les résultats inutiles. Pour cela, vous découvrirez comment utiliser les opérateurs de recherche et les combiner pour créer des requêtes plus complexes. Vous apprendrez également à utiliser les filtres de date pour obtenir des résultats limités à une période spécifique. Cela vous aidera à affiner vos recherches efficacement et à cibler les informations pertinentes selon vos besoins.
 
 Les principaux opérateurs booléens de recherche sont : 
 
 - **`AND`** : Cet opérateur permet de combiner plusieurs termes et d’obtenir des résultats contenant tous ces termes.
 
-ex : `chien AND chat` affichera les résultats contenant à la fois le mot "chien" et le mot "chat".
+Exemple : `chien AND chat` affichera les résultats contenant à la fois le mot "chien" et le mot "chat".
 
 - **`OR`** : Cet opérateur permet d'obtenir des résultats contenant l’un ou l’autre des termes, ou les deux.
 
-ex : `chien OR chat` affichera les résultats contenant soit "chien", soit "chat", soit les deux.
+Exemple : `chien OR chat` affichera les résultats contenant soit "chien", soit "chat", soit les deux.
 
 - **`""`** : Les guillemets permettent de rechercher une expression exacte. Ils sont très utiles pour éviter les variations dans les résultats.
 
-ex : `"chien noir"` affichera uniquement les résultats contenant exactement l’expression "chien noir", dans cet ordre précis.
+Exemple : `"chien noir"` affichera uniquement les résultats contenant exactement l’expression "chien noir", dans cet ordre précis.
 
 - **`-`** : Cet opérateur permet d’exclure un mot ou une expression des résultats.
 
-ex : `chien -chat` affichera les résultats contenant "chien" mais exclura tous ceux qui mentionnent "chat".
+Exemple : `chien -chat` affichera les résultats contenant "chien" mais exclura tous ceux qui mentionnent "chat".
 
 - **`*`** : L’astérisque est un joker qui permet de remplacer un ou plusieurs mots inconnus ou variables dans une recherche.
 
-ex : `meilleur * de 2024` affichera des résultats avec différentes suggestions telles que "meilleur film de 2024", "meilleur livre de 2024", etc.
-
+Exemple : `meilleur * de 2024` affichera des résultats avec différentes suggestions telles que "meilleur film de 2024", "meilleur livre de 2024", etc.
 
 Les principaux opérateurs de recherche avancée : 
 
 - **`site`** : Cet opérateur permet de limiter les résultats à un site Web spécifique.
 
-ex : `site:wikipedia.org chiens` affichera uniquement les résultats de Wikipédia sur les chiens.
+Exemple : `site:wikipedia.org chiens` affichera uniquement les résultats de Wikipédia sur les chiens.
 
 - **`inurl`** : Cet opérateur permet de chercher les résultats contenant un mot spécifique dans l’URL.
 
-ex : `inurl:blog chien` affichera des résultats dont l'URL contient "blog" et qui concernent les chiens.
+Exemple : `inurl:blog chien` affichera des résultats dont l'URL contient "blog" et qui concernent les chiens.
 
 - **`filetype`** : Cet opérateur permet de filtrer les résultats selon un type de fichier spécifique.
 
-ex : `filetype:pdf chat` affichera uniquement les fichiers PDF correspondant à la recherche "chat".
+Exemple : `filetype:pdf chat` affichera uniquement les fichiers PDF correspondant à la recherche "chat".
+
+### Module 2 : Améliorez vos recherches et veilles sur les réseaux sociaux
+
+Dans ce second module, vous apprendrez les bases de la recherche sur les réseaux sociaux.
+
+Sur **X**, vous découvrirez l'utilisation de la recherche avancée, qui vous permettra de filtrer vos recherches de manière précise grâce à différents critères (compte, date, langue, nombre de republications, etc.). Vous apprendrez également à créer des listes, publiques ou privées, et comprendrez leur utilité.
+
+Sur **Bluesky**, vous explorerez les principaux opérateurs de recherche, très similaires à ceux de X, ainsi que l'outil de veille **[deck.blue](https://deck.blue/)**, qui offre une vue multi-colonnes pour suivre simultanément votre fil d’actualité, vos notifications, vos listes, et plus encore. Cet outil intègre également des fonctions de gestion multi-comptes et l'ajout de colonnes basées sur des hashtags.
+
+Sur **Facebook**, un réseau plus restrictif en matière de recherche avancée comparé à X, vous apprendrez à rechercher des informations principalement au sein des groupes et des pages. Vous serez initié à l'outil non public **[Who posted what?](https://whopostedwhat.com/)**, qui permet d'effectuer des recherches par mots-clés sur des publications spécifiques, avec des filtres par date, lieu et utilisateur pour trouver du contenu pertinent.
+
+Sur **Instagram**, où les options de recherche sont plus limitées, vous verrez comment rechercher efficacement à travers des hashtags ou la géolocalisation.
+
+Enfin pour **Snapchat**, vous apprendrez à utiliser la carte pour accéder aux vidéos publiques publiées par les utilisateurs.

@@ -41,7 +41,6 @@ Example: `dog -cat` will display results containing "dog" but exclude all those 
 
 Example: `best * of 2024` will display results with different suggestions such as "best movie of 2024", "best book of 2024", etc.
 
-
 The main advanced search operators are:
 
 - **`site`** : This operator limits results to a specific website.
@@ -55,3 +54,17 @@ Example: `inurl:blog dog` will display results where the URL contains "blog" and
 - **`filetype`** : This operator filters results based on a specific file type.
 
 Example: `filetype:pdf cat` will only display PDF files related to the search "cat".
+
+### Course 2 : Refine searches on social media
+
+In this second module, you will learn the basics of searching on social media platforms.
+
+On **X**, you will discover how to use advanced search, which allows you to filter your searches accurately using various criteria (account, date, language, number of retweets, etc.). You will also learn how to create lists, both public and private, and understand their usefulness.
+
+On **Bluesky**, you will explore the main search operators, which are very similar to those on X, as well as the monitoring tool **[deck.blue](https://deck.blue/)**, which offers a multi-column view to simultaneously track your feed, notifications, lists, and more. This tool also integrates multi-account management functions and the addition of columns based on hashtags.
+
+On **Facebook**, a platform that is more restrictive regarding advanced search compared to X, you will learn how to search for information primarily within groups and pages. You will be introduced to the non-public tool **[Who posted what?](https://whopostedwhat.com/)**, which allows keyword searches on specific posts, with filters for date, location, and user to find relevant content.
+
+On **Instagram**, where search options are more limited, you will see how to effectively search through hashtags or geolocation.
+
+Finally, for **Snapchat**, you will learn how to use the map to access public videos posted by users.

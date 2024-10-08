@@ -24,7 +24,7 @@ L'objectif du niveau 01 est de trouver l'année de création de la première age
 
 Effectuons une recherche Google avec la requête suivante : `world’s first recruitment agency`. Nous obtenons de nombreux résultats, dont plusieurs mentionnent la première agence de recrutement privée connue. La [page Wikipédia](https://en.wikipedia.org/wiki/Employment_agency) sur les agences d'emploi raconte cette histoire en détail avec une source fiable.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 01</summary>
@@ -51,7 +51,7 @@ L'objectif du niveau 02 est d'identifier le sourceur qui est connu pour ne jamai
 
 J'ai d'abord tenté de rechercher sur Google la phrase `never wear suit always wear hat`, mais sans résultat concluant. Cependant, la personne recherchée est un sourceur et cette phrase semble être une caractéristique qui distingue cette personne dans la communauté du sourcing. En effectuant une recherche sur LinkedIn, j'ai trouvé le nom de Bill Boorman, qui semble être une figure bien connue dans le monde du sourcing, souvent aperçu avec un chapeau et sans costume.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 02</summary>
@@ -76,7 +76,7 @@ Le but du niveau 03 est de trouver le prénom en cinq lettres du graphiste connu
 
 En recherchant `chubasan`, sur Google, vous trouverez plusieurs mentions de son véritable nom.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 03</summary>
@@ -103,7 +103,7 @@ L'objectif du niveau 04 est de trouver le nombre de personnes sans emploi à Str
 
 J'ai commencé par chercher l'article sur le site d'AOL, sans succès. Ensuite, j'ai utilisé la technique du Google dorking avec la requête `Katrina Collier job hunters "Streatham"`, qui m'a conduit à un article intitulé de Reena Sewraz intitulé "Why job hunters should give the Jobcentre a miss" sur le site [Love Money](https://www.lovemoney.com/news/15321/you-cant-get-a-job-at-the-jobcentre). Bien que cet article ne soit pas directement sur le site d'AOL, il contient tout de même l'interview de Katrina Collier.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 04</summary>
@@ -132,7 +132,7 @@ En cliquant sur le [lien de l'utilisateur Bitbucket](https://bitbucket.org/kfj/)
 
 Pour trouver le nom complet de l'utilisateur, accédez à la section "Commits" sur la barre latérale gauche. Dans cette section, vous constaterez que les commits effectués par "kfj" sont étiquetés avec le vrai nom de l'utilisateur, révélant ainsi son identité.
 
-En dépliant la section solution ci-dessous, vous verrez le mot de passe :
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
 <details>
 <summary>Solution du niveau 05</summary>

@@ -1,12 +1,12 @@
 ---
-title: ""
-description: ""
+title: "Sourcing Game 7 : Sourcing axé sur le domaine IT"
+description: "Découvrez comment réussir le jeu de sourcing 7, axé sur le domaine de l'IT, avec des défis tels que la recherche d'identifiants GitHub et la validation d'URLs."
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
 sidebar_label: "Sourcing Game 7"
 ---
 
-# Sourcing Game 7 - Sourcing Game axé sur le domaine informatique
+# Sourcing Game 7 - Sourcing Game axé sur le domaine IT
 
 Vous trouverez ici la méthode et les solutions pour terminer avec succès le [Sourcing Game 7](https://sourcing.games/game-7/), conçu pour vous initier aux fondamentaux du sourcing à un niveau avancé. Notez qu'il n'existe pas une seule solution correcte, plusieurs approches sont envisageables. L'essentiel est de réussir les exercices en utilisant les méthodes avec lesquelles vous êtes le plus à l'aise.
 
@@ -22,7 +22,11 @@ L'objectif du niveau 01 est de trouver l'ID GitHub correspondant à un profil Gi
 
 ### Solution
 
-Sur GitHub, le moyen le plus simple de trouver l'ID d'un utilisateur est de se rendre sur sa page de profil et de cliquer sur son avatar (photo de profil). Une fois cliquée, l'URL affichera l'ID de l'utilisateur GitHub. De manière alternative, vous pouvez inspecter le code source de la page pour trouver l'ID si nécessaire.
+Sur GitHub, le moyen le plus simple de trouver l'ID d'un utilisateur à partir de son nom d'utilisateur est d'utiliser l'API. Vous pouvez récupérer les informations de l'utilisateur en effectuant une requête GET à l'URL suivante : `https://api.github.com/user/:id`, où `:id` est l'ID de l'utilisateur.
+
+`https://api.github.com/users/AlexanderBech`
+
+Un autre moyen de trouver l'ID d'un utilisateur est de se rendre sur sa page de profil et de cliquer sur son avatar (photo de profil). Une fois cliquée, l'URL affichera l'ID de l'utilisateur GitHub. De manière alternative, vous pouvez inspecter le code source de la page pour trouver l'ID si nécessaire.
 
 En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
 
@@ -215,7 +219,7 @@ L'objectif du niveau 06 est de trouver le prénom de l'hôte Airbnb décrit.
 
 ### Solution
 
-En utilisant une recherche Google avancée, j'ai entré la requête suivante et ajouté `site:airbnb.com` pour limiter les résultats aux pages Airbnb :
+En utilisant une recherche Google avancée, j'ai entré la requête suivante et ajouté `site:airbnb.com` afin de limiter les résultats aux pages Airbnb :
 
 `site:airbnb.com San Francisco "enthusiast from Austin"`
 
@@ -252,7 +256,7 @@ L'objectif du niveau 07 est de trouver le numéro d'utilisateur à sept chiffres
 
 ### Solution
 
-En utilisant une recherche Google avancée, j'ai entré la requête suivante et ajouté `site:stackoverflow.com` our limiter les résultats aux pages de Stack Overflow :
+En utilisant les informations à notre disposition nous pouvons utiliser le Google dork en ajoutant `site:stackoverflow.com` pour limiter les résultats aux pages de Stack Overflow :
 
 `site:stackoverflow.com developer "image processing" France`
 
@@ -270,6 +274,35 @@ Le nom d'utilisateur du développeur est Gwen, et son numéro d'utilisateur est 
 ![Solution to game 07](/img/challenges/sourcing-games/game-7/sourcing-games-7-07-2.png "Solution to game 07")
 
 Le mot de passe pour atteindre le niveau suivant est "**6093326**".
+
+</details>
+
+## Game 08 - Trouver un nom d'utilisateur GitHub
+
+### Instructions
+
+What is the username for this GitHub ID: 2314988?
+
+### Objectif
+
+L'objectif du niveau 08 est de trouver le nom d'utilisateur GitHub correspondant à un ID utilisateur spécifique.
+
+### Solution
+
+Sur GitHub, le moyen le plus simple de trouver le nom d'utilisateur à partir de l'ID est d'utiliser l'API GitHub. Vous pouvez récupérer les informations de l'utilisateur en faisant une requête GET à l'URL suivante : `https://api.github.com/user/:id` en remplaçant `:id` par l'ID fourni.
+
+`https://api.github.com/user/2314988`
+
+En développant la section solution ci-dessous, vous obtiendrez le mot de passe :
+
+<details>
+<summary>Solution du niveau 08</summary>
+
+Le nom d'utilisateur GitHub associé à l'ID 2314988 est vastrolorde.
+
+![Solution to game 08](/img/challenges/sourcing-games/game-7/sourcing-games-7-08.png "Solution to game 08")
+
+Le mot de passe pour atteindre le niveau suivant est "**vastrolorde**".
 
 </details>
 

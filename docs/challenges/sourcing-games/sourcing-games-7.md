@@ -1,6 +1,6 @@
 ---
-title: ""
-description: ""
+title: "Master the Sourcing Game 7: Advanced IT talent sourcing solutions"
+description: "Discover methods and solutions for passing Sourcing Game 7 with ease. Learn advanced techniques for IT sourcing, from finding GitHub IDs to decrypting MD5 hashes."
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
 sidebar_label: "Sourcing Game 7"
@@ -22,12 +22,18 @@ The goal of Game 01 is to find the GitHub ID associated with a particular GitHub
 
 ### Solution
 
-On GitHub, the simplest way to find a user's ID is to go to their profile page and click on their avatar (profile picture). Once clicked, the URL will reveal the GitHub user's ID. Alternatively, you can inspect the page source to find the ID if needed.
+On GitHub, the easiest way to find a user's ID from their username is to use the API. You can retrieve the user information by making a GET request to this endpoint: `https://api.github.com/user/:id`, where `:id` is the ID of the user.
+
+`https://api.github.com/users/AlexanderBech`
+
+Another way to get a user's ID is to go to their profile page and click on their avatar (profile picture). Once clicked, the URL will reveal the GitHub user's ID. Alternatively, you can inspect the page source to find the ID if needed.
 
 By expanding the solution section below, you will see the password:
 
 <details>
 <summary>Solution to game 01</summary>
+
+Alexander Bech's GitHub ID is 2300056.
 
 ![Solution to game 01](/img/challenges/sourcing-games/game-7/sourcing-games-7-01.png "Solution to game 01")
 
@@ -271,11 +277,40 @@ By expanding the solution section below, you will see the password:
 <details>
 <summary>Solution to game 07</summary>
 
-he developer's username is Gwen, and her user number is "6093326".s
+The developer's username is Gwen, and her user number is "6093326"
 
 ![Solution to game 07](/img/challenges/sourcing-games/game-7/sourcing-games-7-07-2.png "Solution to game 07")
 
 The password to reach the next level is "**6093326**".
+
+</details>
+
+## Game 08 - Find a GitHub username
+
+### Instructions
+
+What is the username for this GitHub ID: 2314988?
+
+### Objective
+
+The goal of Game 08 is to find the GitHub username associated with a specific user ID.
+
+### Solution
+
+On GitHub, the easiest way to find a user's username from their ID is to use the GitHub API. You can retrieve the user information by making a GET request to this endpoint: `https://api.github.com/user/:id`, replacing `:id` with the provided ID.
+
+`https://api.github.com/user/2314988`
+
+By expanding the solution section below, you will see the password:
+
+<details>
+<summary>Solution to game 08</summary>
+
+2314988's GitHub username is vastrolorde.
+
+![Solution to game 08](/img/challenges/sourcing-games/game-7/sourcing-games-7-08.png "Solution to game 08")
+
+The password to reach the next level is "**vastrolorde**".
 
 </details>
 

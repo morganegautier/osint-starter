@@ -15,7 +15,7 @@ For anyone interested in OSINT (Open Source Intelligence), this site is a valuab
 
 The beginner's course includes 5 modules that will teach you the basics of advanced internet research.
 
-### Course 1 : Carry out searches efficiently to find the results you need
+### Course 1: Search Engines
 
 In this first module, you will learn how to refine your searches using your search engine to filter out irrelevant results. You will discover how to use search operators and combine them to create complExamplequeries. You will also learn how to use your search engine’s date filters to get results within a specific time frame. This will help you effectively narrow down your searches and focus on relevant information according to your needs.
 
@@ -55,7 +55,7 @@ Example: `inurl:blog dog` will display results where the URL contains "blog" and
 
 Example: `filetype:pdf cat` will only display PDF files related to the search "cat".
 
-### Course 2 : Refine searches on social media
+### Course 2: Social Media
 
 In this second module, you will learn the basics of searching on social media platforms.
 
@@ -68,3 +68,13 @@ On **Facebook**, a platform that is more restrictive regarding advanced search c
 On **Instagram**, where search options are more limited, you will see how to effectively search through hashtags or geolocation.
 
 Finally, for **Snapchat**, you will learn how to use the map to access public videos posted by users.
+
+### Course 3: Archiving
+
+### Module 3 : Retrouver une archive
+
+In this third module, you will explore archiving tools that will allow you to both go back in time on the internet to find older versions of web pages and save resources for the future by archiving websites.
+
+You will learn how to use the **[Wayback Machine](https://web.archive.org/)**, an online tool that allows you to view website archives at different dates. This gives you access to previous versions of a page, even if it has been modified or deleted, and it also enables you to archive web pages yourself.
+
+You will also discover how to access **cached pages**, which are temporary copies of websites stored by search engines or archiving services. Cached pages allow you to view an earlier version of a site, even if it has been modified or is temporarily unavailable online.

@@ -76,3 +76,11 @@ Dans ce troisième module, vous explorerez des outils d'archivage qui vous perme
 Vous apprendrez à utiliser le moteur **[Wayback Machine](https://web.archive.org/)**, un outil en ligne qui permet de consulter les archives de sites web à différentes dates. Il vous offre ainsi l'accès à des versions antérieures d'une page, même si celle-ci a été modifiée ou supprimée, et vous permet également d'archiver vous-même des pages web.
 
 Vous découvrirez également comment accéder aux **pages en cache**, qui sont des copies temporaires de sites web stockées par des moteurs de recherche ou des services d'archivage. Ces pages en cache permettent de consulter une version antérieure d'un site, même si celui-ci a été modifié ou est temporairement inaccessible en ligne.
+
+### Module 4 : Recherche d'images inversée
+
+Dans ce quatrième module, vous apprendrez à utiliser des outils de recherche avancée pour retrouver l'origine des photos et vidéos partagées sur internet, ainsi que leur première publication et l'identité de l'auteur.
+
+Vous découvrirez comment effectuer une recherche d'image inversée à l'aide de différents moteurs de recherche (Google Images, Google Lens, Microsoft Bing, Yandex, TinEye, ou encore Baidu).
+
+En plus de ces outils, vous serez initié à l'extension [InVID-WeVerify](https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en), qui permet d'effectuer des recherches inversées de photos et vidéos sur plusieurs plateformes simultanément.

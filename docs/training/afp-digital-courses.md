@@ -78,3 +78,11 @@ In this third module, you will explore archiving tools that will allow you to bo
 You will learn how to use the **[Wayback Machine](https://web.archive.org/)**, an online tool that allows you to view website archives at different dates. This gives you access to previous versions of a page, even if it has been modified or deleted, and it also enables you to archive web pages yourself.
 
 You will also discover how to access **cached pages**, which are temporary copies of websites stored by search engines or archiving services. Cached pages allow you to view an earlier version of a site, even if it has been modified or is temporarily unavailable online.
+
+### Course 4: Reverse Image Search
+
+In this fourth module, you will learn how to use advanced tools to trace the origins of photos and videos shared on the internet, as well as identify their first publication and the author.
+
+You will discover how to perform a reverse image search using various search engines (Google Images, Google Lens, Microsoft Bing, Yandex, TinEye, and Baidu).
+
+In addition to these tools, you will be introduced to the extension [InVID-WeVerify](https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en), which allows you to conduct reverse searches for photos and videos across multiple platforms simultaneously.

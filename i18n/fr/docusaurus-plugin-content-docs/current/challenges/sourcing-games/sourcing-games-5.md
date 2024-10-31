@@ -1,5 +1,5 @@
 ---
-title: "Sourcing Game 5: Solutions et méthodes pour réussir le SourceCon 2017"
+title: "Sourcing Game 5 - Méthodes et solutions"
 description: Découvrez les solutions pour réussir le Sourcing Game 5, présenté au SourceCon 2017. DApprenez à maîtriser le sourcing avec des astuces pratiques et des méthodes éprouvées.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, SourceCon]

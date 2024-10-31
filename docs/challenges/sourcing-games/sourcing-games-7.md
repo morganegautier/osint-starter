@@ -1,5 +1,5 @@
 ---
-title: "Master the Sourcing Game 7: Advanced IT talent sourcing solutions"
+title: "Sourcing Game 7 - Methods and solutions"
 description: "Discover methods and solutions for passing Sourcing Game 7 with ease. Learn advanced techniques for IT sourcing, from finding GitHub IDs to decrypting MD5 hashes."
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]

@@ -1,5 +1,5 @@
 ---
-title: "Sourcing Game 1 : Guide complet pour maîtriser les bases"
+title: "Sourcing Game 1 - Méthodes et solutions"
 description: Apprenez à maitriser les bases du sourcing avec des solutions détaillées pour chaque niveau du Sourcing Game 1 et développez vos compétences en OSINT.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, OSINT]

@@ -1,5 +1,5 @@
 ---
-title: "Réussir le Sourcing Game 2 : Solutions et méthodes pour passer chaque niveau"
+title: "Sourcing Game 2 - Méthodes et solutions"
 description: Découvrez toutes les solutions et astuces pour réussir le Sourcing Game 2. De l'encodage d'URL à la recherche avancée sur LinkedIn, suivez notre guide pas à pas pour maîtriser chaque niveau.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, OSINT]

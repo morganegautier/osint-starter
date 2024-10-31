@@ -1,5 +1,5 @@
 ---
-title: "Sourcing Game 7 : Sourcing axé sur le domaine IT"
+title: "Sourcing Game 7 - Méthodes et solutions"
 description: "Découvrez comment réussir le jeu de sourcing 7, axé sur le domaine de l'IT, avec des défis tels que la recherche d'identifiants GitHub et la validation d'URLs."
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]

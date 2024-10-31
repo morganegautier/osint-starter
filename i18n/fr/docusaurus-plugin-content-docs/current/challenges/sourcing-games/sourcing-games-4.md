@@ -1,5 +1,5 @@
 ---
-title: "Sourcing Game 4 : Solutions complètes et astuces avancées pour réussir chaque niveau"
+title: "Sourcing Game 4 - Méthodes et solutions"
 description: Découvrez les solutions détaillées pour le Sourcing Game 4 et maîtrisez les techniques avancées de sourcing. Trouvez des réponses aux jeux et passez au niveau supérieur !
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, OSINT]

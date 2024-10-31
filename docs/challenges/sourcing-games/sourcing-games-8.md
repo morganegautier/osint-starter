@@ -1,8 +1,8 @@
 ---
 title: "Sourcing Game 8 - Methods and solutions"
-description: ""
+description: "Master Sourcing Game 8 from SourceCon's Grandmaster Competition 2017 with detailed solutions and tips. Learn advanced sourcing techniques and explore multiple methods for each challenge."
 image: /img/challenges/sourcing-games/sourcing-games.png
-keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
+keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, SourceCon]
 sidebar_label: "Sourcing Game 8"
 ---
 

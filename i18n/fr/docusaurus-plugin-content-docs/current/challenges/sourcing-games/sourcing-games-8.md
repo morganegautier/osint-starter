@@ -1,6 +1,6 @@
 ---
 title: "Sourcing Game 8 - Méthodes et solutions"
-description: "
+description: "Maîtrisez le Sourcing Game 8 de SourceCon 2017 avec des solutions et astuces pour chaque défi. Techniques de sourcing avancées et méthodes variées."
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
 sidebar_label: "Sourcing Game 8"
@@ -135,7 +135,7 @@ Le mot de passe pour atteindre le niveau suivant est "**rhonda**".
 
 </details>
 
-## Game 06 - 
+## Game 06 - Découvrir le poste LinkedIn du propriétaire d'un blog populaire
 
 ### Instructions
 
@@ -182,7 +182,7 @@ En développant la section solution ci-dessous, vous obtiendrez le mot de passe 
 <details>
 <summary>Solution du niveau 06</summary>
 
-![Solution du niveau 06](/img/challenges/sourcing-games/game-8/sourcing-games-8-05.png "Solution du niveau 06")
+![Solution to game 06](/img/challenges/sourcing-games/game-8/sourcing-games-8-06-5.png "Solution to game 06")
 
 Le mot de passe pour atteindre le niveau suivant est "**entrepreneur**".
 

@@ -141,6 +141,8 @@ Le hash MD5 "9cfa7aefcc61936b70aaec6729329eda" est déchiffré en "games".
 
 Le mot de passe pour atteindre le niveau suivant est "**games**".
 
+</details>
+
 ## Game 04 - Trouver les mots de passe les plus courants sur LinkedIn
 
 ### Instructions

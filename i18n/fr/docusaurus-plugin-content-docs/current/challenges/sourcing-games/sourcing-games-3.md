@@ -1,5 +1,5 @@
 ---
-title: "Réussir le Sourcing Game 3 : Méthodes, solutions et astuces avancées"
+title: "Sourcing Game 3 - Méthodes et solutions"
 description: Découvrez les méthodes et solutions pour réussir le Sourcing Game 3. Suivez nos astuces avancées pour chaque niveau et améliorez vos compétences en OSINT.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, OSINT]

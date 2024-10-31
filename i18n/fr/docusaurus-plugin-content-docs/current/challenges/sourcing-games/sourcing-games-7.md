@@ -1,5 +1,5 @@
 ---
-title: "Sourcing Game 7 : Sourcing axé sur le domaine IT"
+title: "Sourcing Game 7 - Méthodes et solutions"
 description: "Découvrez comment réussir le jeu de sourcing 7, axé sur le domaine de l'IT, avec des défis tels que la recherche d'identifiants GitHub et la validation d'URLs."
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]
@@ -140,6 +140,8 @@ Le hash MD5 "9cfa7aefcc61936b70aaec6729329eda" est déchiffré en "games".
 ![Solution du niveau 03](/img/challenges/sourcing-games/game-7/sourcing-games-7-03.png "Solution du niveau 03")
 
 Le mot de passe pour atteindre le niveau suivant est "**games**".
+
+</details>
 
 ## Game 04 - Trouver les mots de passe les plus courants sur LinkedIn
 

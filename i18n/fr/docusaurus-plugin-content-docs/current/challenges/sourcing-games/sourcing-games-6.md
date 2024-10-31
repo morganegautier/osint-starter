@@ -1,5 +1,5 @@
 ---
-title: "Sourcing Game 6 : Guide et solutions pour réussir le AirSource One 2017"
+title: "Sourcing Game 6 - Méthodes et solutions"
 description: Découvrez les solutions et méthodes avancées pour réussir le Sourcing Game 6 issu du AirSource One 2017. Suivez nos étapes et astuces pour améliorer vos compétences en sourcing.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, AirSource One]

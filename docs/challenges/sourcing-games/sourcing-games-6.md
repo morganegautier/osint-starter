@@ -1,5 +1,5 @@
 ---
-title: "Mastering Sourcing Game 6: Solutions and advanced techniques from AirSource One"
+title: "Sourcing Game 6 - Methods and solutions"
 description: Discover how to conquer Sourcing Game 6 with advanced sourcing techniques. Learn how to solve tricky challenges in online sourcing from AirSource One 2017.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT, AirSource One]

@@ -1,5 +1,5 @@
 ---
-title: "Unlock the basics: How to master Sourcing Game 1 with step-by-step guide"
+title: "Sourcing Game 1 - Methods and solutions"
 description: Discover the step-by-step methods and solutions to conquer Sourcing Game 1. Learn essential sourcing skills and pass all levels with ease.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]

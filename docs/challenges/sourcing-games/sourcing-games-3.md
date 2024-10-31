@@ -1,5 +1,5 @@
 ---
-title: "Mastering Sourcing Game 3: creative methods for advanced data sourcing"
+title: "Sourcing Game 3 - Methods and solutions"
 description: Unlock solutions to Sourcing Game 3 with our detailed guide. Learn advanced sourcing techniques and multiple approaches to excel in data discovery challenges.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]

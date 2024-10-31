@@ -1,5 +1,5 @@
 ---
-title: "Mastering Sourcing Game 4: strategies to overcome data sourcing challenges"
+title: "Sourcing Game 4 - Methods and solutions"
 description: Discover creative methods and solutions to conquer Sourcing Game 4. Learn advanced strategies for data sourcing, with a focus on perseverance and problem-solving.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]

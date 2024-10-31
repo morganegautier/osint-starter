@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Sourcing Game 2: step-by-step guide to winning"
+title: "Sourcing Game 2 - Methods and solutions"
 description: Unlock the secrets to passing Sourcing Game 2. Learn URL encoding, use Wayback Machine, explore GitHub commits, find LinkedIn profiles, and uncover document metadata.
 image: /img/challenges/sourcing-games/sourcing-games.png
 keywords: [Sourcing Games, Sourcing Techniques, Online Research Skills, OSINT]

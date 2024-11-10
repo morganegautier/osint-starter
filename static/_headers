@@ -1,0 +1,9 @@
+/*
+  Access-Control-Allow-Origin: https://www.osintstarter.com/
+  Cache-Control: public, s-maxage=86400, stale-while-revalidate=3600, stale-if-error=86400
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  X-Xss-Protection: 1; mode=block
+  Referrer-Policy: no-referrer
+  Permissions-Policy: document-domain=()
+  Content-Security-Policy: default-src 'self'; connect-src 'self' https://a.osintstarter.com; script-src 'self' 'unsafe-inline' https://a.osintstarter.com/js/script.outbound-links.js; style-src 'self' 'unsafe-inline'; img-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests;

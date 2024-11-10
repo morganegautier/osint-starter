@@ -84,3 +84,9 @@ Dans ce quatrième module, vous apprendrez à utiliser des outils de recherche a
 Vous découvrirez comment effectuer une recherche d'image inversée à l'aide de différents moteurs de recherche (Google Images, Google Lens, Microsoft Bing, Yandex, TinEye, ou encore Baidu).
 
 En plus de ces outils, vous serez initié à l'extension [InVID-WeVerify](https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en), qui permet d'effectuer des recherches inversées de photos et vidéos sur plusieurs plateformes simultanément.
+
+### Module 5 : Géolocalisation
+
+Dans ce cinquième module, vous apprendrez à analyser les indices présents dans une photo ou une vidéo afin de déterminer où et quand elle a été prise.
+
+Vous découvrirez également comment utiliser l'outil **Street View** de Google Maps, qui vous permet de naviguer dans de nombreux endroits à travers le monde comme si vous y étiez, et de remonter dans le temps pour observer l’évolution d’un lieu. Vous apprendrez aussi à rechercher des indices en vue satellite et en vue 3D pour affiner votre analyse géolocalisée.

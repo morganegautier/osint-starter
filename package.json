@@ -28,6 +28,7 @@
     "@docusaurus/module-type-aliases": "3.6.1",
     "@docusaurus/tsconfig": "3.6.1",
     "@docusaurus/types": "3.6.1",
+    "@types/node": "22",
     "search-insights": "2.17.2",
     "typescript": "5.6.3"
   },
@@ -44,6 +45,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=22.0"
   }
 }

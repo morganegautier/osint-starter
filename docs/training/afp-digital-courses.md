@@ -71,8 +71,6 @@ Finally, for **Snapchat**, you will learn how to use the map to access public vi
 
 ### Course 3: Archiving
 
-### Module 3 : Retrouver une archive
-
 In this third module, you will explore archiving tools that will allow you to both go back in time on the internet to find older versions of web pages and save resources for the future by archiving websites.
 
 You will learn how to use the **[Wayback Machine](https://web.archive.org/)**, an online tool that allows you to view website archives at different dates. This gives you access to previous versions of a page, even if it has been modified or deleted, and it also enables you to archive web pages yourself.
@@ -86,3 +84,9 @@ In this fourth module, you will learn how to use advanced tools to trace the ori
 You will discover how to perform a reverse image search using various search engines (Google Images, Google Lens, Microsoft Bing, Yandex, TinEye, and Baidu).
 
 In addition to these tools, you will be introduced to the extension [InVID-WeVerify](https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en), which allows you to conduct reverse searches for photos and videos across multiple platforms simultaneously.
+
+### Course 5: Geolocation
+
+In this fifth module, you will learn how to analyze the clues present in a photo or video to determine where and when it was taken.
+
+You will also discover how to use **Google Maps' Street View**, which allows you to virtually explore many locations around the world as if you were there, and even go back in time to observe changes in a location. You will also learn how to search for clues using satellite and 3D views to refine your geolocation analysis.

@@ -15,8 +15,8 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@docusaurus/core": "3.6.1",
-    "@docusaurus/preset-classic": "3.6.1",
+    "@docusaurus/core": "3.6.3",
+    "@docusaurus/preset-classic": "3.6.3",
     "@mdx-js/react": "3.1.0",
     "clsx": "2.1.1",
     "docusaurus-lunr-search": "3.5.0",
@@ -25,12 +25,12 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.6.1",
-    "@docusaurus/tsconfig": "3.6.1",
-    "@docusaurus/types": "3.6.1",
+    "@docusaurus/module-type-aliases": "3.6.3",
+    "@docusaurus/tsconfig": "3.6.3",
+    "@docusaurus/types": "3.6.3",
     "@types/node": "22",
-    "search-insights": "2.17.2",
-    "typescript": "5.6.3"
+    "search-insights": "2.17.3",
+    "typescript": "5.7.2"
   },
   "browserslist": {
     "production": [

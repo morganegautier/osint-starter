@@ -59,7 +59,7 @@ Un autre indice confirmant cette information est que certaines barres de chocola
 La carte imprimée sur la barre de chocolat représente une partie de Tierra de Pinares, une région naturelle proche de Valladolid, dans la communauté autonome de Castille-et-León, en Espagne. Les coordonnées du lieu visible sur les images sont approximativement `41.352757, -4.690017`.
 
 <em>
-Used tools:
+Outils utilisés :
 - Google Lens: Recherche d'image inversée
 - Google Maps: Vérification de la géolocalisation
 </em>

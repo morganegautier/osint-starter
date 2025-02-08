@@ -8,7 +8,7 @@ sidebar_label: "OSINT Exercice #021"
 
 # Sofia Santos - OSINT Exercice #021 - Write-up
 
-Ce write-up présente l’[OSINT Exercise #021 de Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-021/), un challenge de éolocalisation visant à déterminer les coordonnées exactes d'un lieu représenté sur une carte. Ce challenge, catégorisé comme facile, est accessible aussi bien aux débutants qu’aux experts en OSINT.
+Ce write-up présente l’[OSINT Exercise #021 de Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-021/), un challenge de géolocalisation visant à déterminer les coordonnées exactes d'un lieu représenté sur une carte. Ce challenge, catégorisé comme facile, est accessible aussi bien aux débutants qu’aux experts en OSINT.
 
 Ce guide propose une approche détaillée et méthodique pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
 

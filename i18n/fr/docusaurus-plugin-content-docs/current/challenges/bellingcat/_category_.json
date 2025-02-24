@@ -1,0 +1,11 @@
+{
+  "position": 1,
+  "label": "Bellingcat",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Bellingcat",
+    "slug": "/challenges/bellingcat"
+  }
+}

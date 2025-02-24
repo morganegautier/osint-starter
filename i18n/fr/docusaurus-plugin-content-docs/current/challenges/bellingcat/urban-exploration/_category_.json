@@ -1,0 +1,11 @@
+{
+  "position": 2,
+  "label": "Urban Exploration",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Urban Exploration",
+    "slug": "/challenges/urban-exploration"
+  }
+}

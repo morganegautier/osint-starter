@@ -15,8 +15,11 @@ Ce guide propose une approche détaillée et méthodique pour résoudre l’exer
 ## Présentation du challenge
 
 > Quelle belle rivière sinueuse !
+>
 > Depuis un hublot d’avion, on peut découvrir le monde sous un angle unique. Ici, nous avons une vue sur une rivière serpentant à travers le paysage !
+>
 > Les avions volent à différentes altitudes, mais cet appareil était suffisamment haut pour capturer le tracé sinueux du cours d’eau.
+>
 > Quel est le nom de cette rivière ? (n’incluez pas "River" dans votre réponse)
 >
 > ![Up the creek](/img/challenges/bellingcat/natural-wonders/up-the-creek-1.png "Up the creek")

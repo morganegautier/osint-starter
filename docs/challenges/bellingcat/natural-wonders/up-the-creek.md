@@ -15,8 +15,11 @@ This guide provides a step-by-step solution to the challenge, offering insights 
 ## Task briefing
 
 > That's a meandering river!
+>
 > Gazing out of an airplane window gives you a unique perspective on the world. In this case, it's a view of a meandering river!
+>
 > Different aircraft fly at different altitudes, but this small plane was high enough to capture the river's winding path.
+>
 > What is the name of the river in the photograph? (don't include "River" in your answer)
 >
 > ![Up the creek](/img/challenges/bellingcat/natural-wonders/up-the-creek-1.png "Up the creek")

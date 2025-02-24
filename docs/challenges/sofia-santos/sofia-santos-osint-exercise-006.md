@@ -10,7 +10,7 @@ sidebar_label: "OSINT Exercise #006"
 
 This write-up covers [OSINT Exercise #006 by Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-006/), a fact-checking challenge focused on verifying the true origin of a photo shared in a tweet. The challenge is rated easy, making it suitable for both beginners and experts.
 
-This walkthrough provides a step-by-step guide to solving the challenge, offering insights and techniques useful for OSINT investigations. It’s recommended to attempt solving the challenge on your own first and then refer to this solution if you get stuck or want to verify your findings. Keep in mind that OSINT challenges often have multiple valid approaches—what matters most is your confidence and proficiency with the methods you choose.
+This walkthrough provides a step-by-step guide to solving the challenge, offering insights and techniques useful for OSINT investigations. It’s recommended to attempt solving the challenge on your own first and then refer to this solution if you get stuck or want to verify your findings. Keep in mind that OSINT challenges often have multiple valid approaches, what matters most is your confidence and proficiency with the methods you choose.
 
 ## Task briefing
 
@@ -60,6 +60,6 @@ Used tools:
 
 ---
 
-Thanks for reading this write-up! Stay tuned for the next one.
+Thanks for reading this write-up! Stay tuned for the next challenge.
 
 If you’re looking to improve your OSINT skills, be sure to check out [Sofia Santos' website](https://gralhix.com/)!

@@ -70,6 +70,6 @@ Outils utilisés :
 
 ---
 
-Merci d’avoir lu ce write-up ! Restez à l’affût pour le prochain.
+Merci d’avoir lu ce write-up ! Restez à l’affût pour le prochain challenge.
 
 Si vous souhaitez améliorer vos compétences en OSINT, rendez-vous vite sur le site de [Sofia Santos](https://gralhix.com/) !

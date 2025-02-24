@@ -67,6 +67,12 @@ const config: Config = {
         {
           type: 'doc',
           position: 'left',
+          docId: 'getting-started',
+          label: 'Getting Started'
+        },
+        {
+          type: 'doc',
+          position: 'left',
           docId: 'training',
           label: 'Training'
         },

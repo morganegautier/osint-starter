@@ -26,7 +26,7 @@ This walkthrough provides a step-by-step guide to solving the challenge, offerin
 
 ## Investigation
 
-### Images analysis
+### Image analysis
 
 Let's begin by analyzing the provided image. It features a picturesque tropical island surrounded by clear turquoise waters and coral reefs. The island is densely covered with lush green palm trees and has a small sandy beach area. The surrounding ocean displays deep blue and lighter shades, indicating varying depths and underwater coral formations.
 

@@ -26,7 +26,7 @@ This guide provides a step-by-step solution to the challenge, offering insights 
 
 ## Investigation
 
-### Images analysis
+### Image analysis
 
 Let's begin by examining the provided image. It showcases an aerial view of a rural landscape dominated by a winding river. The river forms multiple sharp bends, creating oxbow-like curves indicative of a slow-moving waterway. The surrounding landscape consists of cultivated farmland, green fields, scattered farm buildings, and small settlements connected by narrow roads.
 

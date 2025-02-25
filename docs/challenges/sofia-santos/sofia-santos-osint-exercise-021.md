@@ -24,7 +24,7 @@ This walkthrough provides a step-by-step guide to solving the challenge, offerin
 
 ## Investigation
 
-### Images analysis
+### Image analysis
 
 Let's begin by analyzing the two provided images. The first image shows a chocolate bar with a map printed on it, along with a logo that reads "Do it right." The second image is a satellite view of the same location depicted on the chocolate bar. The area appears rural, with a small cluster of buildings surrounded by fields and wooded areas. A meandering stream and a road are also visible.
 
@@ -58,7 +58,7 @@ Another confirming clue is that some of Puchero's chocolate bars are made with p
 
 ## Conclusion
 
-The map featured on the chocolate bar represents a part of Tierra de Pinares, a natural region near Valladolid in the autonomous community of Castilla y León, Spain. The coordinates of the location seen in both images are approximately `41.352757, -4.690017`.
+The map featured on the chocolate bar represents a part of Tierra de Pinares, a natural region near Valladolid in the autonomous community of Castilla y León, Spain. The coordinates of the location seen in both images are approximately **41°21'09.9"N 4°41'24.1"W**, or in decimal writing **41.352757, -4.690017**.
 
 <em>
 Used tools:

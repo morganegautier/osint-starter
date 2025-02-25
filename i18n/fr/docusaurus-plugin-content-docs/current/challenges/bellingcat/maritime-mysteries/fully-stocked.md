@@ -1,6 +1,6 @@
 ---
 title: "Bellingcat - Maritime Mysteries - Fully Stocked - Write-up"
-description: "Discover how to solve Bellingcat's Maritime Mysteries: Fully Stocked OSINT challenge with a step-by-step geolocation guide using Google Lens and Maps. Enhance your skills with this walkthrough."
+description: "Découvrez comment résoudre le défi OSINT Fully Stocked de Bellingcat avec une méthode de géolocalisation détaillée utilisant Google Lens et Maps. Améliorez vos compétences avec ce write-up."
 image: img/challenges/sofia-santos/maps.jpg
 keywords: [Bellingcat, Geolocation, OSINT]
 sidebar_label: "Fully Stocked"

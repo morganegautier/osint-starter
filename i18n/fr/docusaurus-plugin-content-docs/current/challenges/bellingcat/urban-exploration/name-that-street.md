@@ -1,6 +1,6 @@
 ---
 title: "Bellingcat - Urban Exploration - Name that street! - Write-up"
-description: ""
+description: "Découvrez comment résoudre le défi OSINT Name that street! de Bellingcat en identifiant une rue à l'aide d'analyses d'images, de plaques d'immatriculation et de Google Maps pour la géolocalisation."
 image: img/challenges/sofia-santos/maps.jpg
 keywords: [Bellingcat, Geolocation, OSINT]
 sidebar_label: "Name that street!"
@@ -8,7 +8,7 @@ sidebar_label: "Name that street!"
 
 # Bellingcat - Urban Exploration - Name that street! - Write-up
 
-Ce write-up présente le challenge Urban Exploration - Name that street! proposé par [Bellingcat](https://challenge.bellingcat.com/), un défi de géolocalisation demandant aux participants d'identifier les coordonnées d’un lieu apparaissant sur une image. Le challenge a été créé par [Kolina Koltai, Bellingcat](https://www.bellingcat.com/author/kolinakoltai/).
+Ce write-up présente le challenge Urban Exploration - Name that street! proposé par [Bellingcat](https://challenge.bellingcat.com/), un défi de géolocalisation demandant aux participants d'identifier les coordonnées d’un lieu apparaissant sur une image. Ce challenge a été créé par [Kolina Koltai, Bellingcat](https://www.bellingcat.com/author/kolinakoltai/).
 
 Ce guide propose une approche détaillée et méthodique pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
 

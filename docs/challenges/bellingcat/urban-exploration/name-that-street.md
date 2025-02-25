@@ -26,7 +26,7 @@ This guide provides a step-by-step solution to the challenge, offering insights 
 
 ## Investigation
 
-### Images analysis
+### Image analysis
 
 Let's begin by examining the provided image. The image captures a European urban street, likely in Germany, based on architectural styles, signage, and vehicle license plates displaying a "D" country code. The buildings exhibit a mix of modern and historic designs, with a mansard-roofed structure on the right and contemporary glass-and-concrete facades on the left. A row of parked cars lines the street, including premium German brands like BMW and Mercedes.
 

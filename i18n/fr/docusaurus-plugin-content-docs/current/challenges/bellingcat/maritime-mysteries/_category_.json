@@ -1,0 +1,11 @@
+{
+  "position": 3,
+  "label": "Maritime Mysteries",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Maritime Mysteries",
+    "slug": "/challenges/bellingcat/maritime-mysteries"
+  }
+}

@@ -4,6 +4,7 @@ description: "Discover how to solve Bellingcat’s “Name That Street!” OSINT
 image: img/challenges/sofia-santos/maps.jpg
 keywords: [Bellingcat, Geolocation, OSINT]
 sidebar_label: "Name that street!"
+position: 1
 ---
 
 # Bellingcat - Urban Exploration - Name that street! - Write-up

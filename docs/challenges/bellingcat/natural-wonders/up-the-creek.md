@@ -4,6 +4,7 @@ description: "A step-by-step OSINT investigation solving Bellingcat's Up The Cre
 image: img/challenges/sofia-santos/maps.jpg
 keywords: [Bellingcat, Geolocation, OSINT]
 sidebar_label: "Up The Creek"
+position: 1
 ---
 
 # Bellingcat - Natural Wonders - Up The Creek - Write-up

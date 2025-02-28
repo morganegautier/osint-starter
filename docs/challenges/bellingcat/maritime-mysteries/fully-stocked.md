@@ -4,6 +4,7 @@ description: "Discover how to solve Bellingcat's Maritime Mysteries: Fully Stock
 image: img/challenges/sofia-santos/maps.jpg
 keywords: [Bellingcat, Geolocation, OSINT]
 sidebar_label: "Fully Stocked"
+position: 1
 ---
 
 # Bellingcat - Maritime Mysteries - Fully Stocked - Write-up

@@ -1,5 +1,5 @@
 ---
-slug: /osint-principes-essentiels
+slug: /getting-started/osint-principes-essentiels
 title: "Les principes essentiels de l'OSINT"
 description: "Découvrez les principes essentiels de l'OSINT : collecte légale, éthique et efficace d'informations en sources ouvertes. Protégez votre anonymat et optimisez vos analyses avec des outils adaptés."
 keywords: [OSINT]

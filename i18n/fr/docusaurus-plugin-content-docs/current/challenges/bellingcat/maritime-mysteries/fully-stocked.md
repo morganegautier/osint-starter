@@ -8,9 +8,9 @@ sidebar_label: "Fully Stocked"
 
 # Bellingcat - Maritime Mysteries - Fully Stocked - Write-up
 
-Ce write-up présente le challenge Maritime Mysteries - Fully Stocked proposé par [Bellingcat](https://challenge.bellingcat.com/), un challenge de géolocalisation qui consiste à identifier l'emplacement d'une image. Ce challenge a été créé par [Galen Reich, Bellingcat](https://www.bellingcat.com/author/galenreich/).
+Ce write-up détaille le challenge Maritime Mysteries - Fully Stocked proposé par [Bellingcat](https://challenge.bellingcat.com/), un challenge de géolocalisation qui consiste à identifier l'emplacement d'une image. Ce challenge a été créé par [Galen Reich, Bellingcat](https://www.bellingcat.com/author/galenreich/).
 
-Ce guide propose une approche détaillée et méthodique pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
+Dans ce guide, nous vous proposons une approche pas à pas pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
 
 ## Présentation du challenge
 

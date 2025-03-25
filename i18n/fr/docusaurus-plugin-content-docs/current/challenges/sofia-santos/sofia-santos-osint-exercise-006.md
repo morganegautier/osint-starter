@@ -8,9 +8,9 @@ sidebar_label: "OSINT Exercice #006"
 
 # Sofia Santos - OSINT Exercice #006 - Write-up
 
-Ce write-up présente l’[OSINT Exercise #006 de Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-006/), un challenge de vérification d’informations visant à déterminer l’origine réelle d’une photo partagée dans un tweet. Ce challenge, catégorisé comme facile, est accessible aussi bien aux débutants qu’aux experts en OSINT.
+Ce write-up détaille l’[OSINT Exercise #006 de Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-006/), un challenge de vérification d’informations visant à déterminer l’origine réelle d’une photo partagée dans un tweet. Ce challenge, catégorisé comme facile, est accessible aussi bien aux débutants qu’aux experts en OSINT.
 
-Ce guide propose une approche détaillée et méthodique pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
+Dans ce guide, nous vous proposons une approche pas à pas pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
 
 ## Présentation du challenge
 

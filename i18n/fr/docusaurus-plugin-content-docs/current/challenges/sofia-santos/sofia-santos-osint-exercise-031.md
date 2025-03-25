@@ -8,9 +8,9 @@ sidebar_label: "OSINT Exercice #031"
 
 # Sofia Santos - OSINT Exercice #031 - Write-up
 
-Ce write-up présente l’[OSINT Exercice #031 de Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-031/), un challenge axé sur l'observation et la recherche web pour découvrir des informations cachées grâce à des techniques d'enquête numérique. Ce challenge, catégorisé comme facile, est accessible aussi bien aux débutants qu’aux experts en OSINT.
+Ce write-up détaille l’[OSINT Exercice #031 de Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-031/), un challenge axé sur l'observation et la recherche web pour découvrir des informations cachées grâce à des techniques d'enquête numérique. Ce challenge, catégorisé comme facile, est accessible aussi bien aux débutants qu’aux experts en OSINT.
 
-Ce guide propose une approche détaillée et méthodique pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
+Dans ce guide, nous vous proposons une approche pas à pas pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
 
 ## Présentation du challenge
 

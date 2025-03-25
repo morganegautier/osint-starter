@@ -8,9 +8,9 @@ sidebar_label: "OSINT Exercice #004"
 
 # Sofia Santos - OSINT Exercice #004 - Write-up
 
-Ce write-up présente l’[OSINT Exercise #004 de Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-004/), un challenge de géolocalisation visant à déterminer les coordonnées exactes d’un lieu à partir d’une image. Le niveau de difficulté est estimé à facile/moyen pour les débutants et facile pour les experts.
+Ce write-up détaille l’[OSINT Exercise #004 de Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-004/), un challenge de géolocalisation visant à déterminer les coordonnées exactes d’un lieu à partir d’une image. Le niveau de difficulté est estimé à facile/moyen pour les débutants et facile pour les experts.
 
-Ce guide propose une approche détaillée et méthodique pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
+Dans ce guide, nous vous proposons une approche pas à pas pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
 
 ## Présentation du challenge
 

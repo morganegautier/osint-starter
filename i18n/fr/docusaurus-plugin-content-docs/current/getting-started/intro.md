@@ -1,5 +1,5 @@
 ---
-slug: /intro
+slug: /getting-started/intro
 title: Introduction à l'OSINT
 description: "Découvrez l'OSINT (Open-Source Intelligence) : la collecte et l’analyse d’informations publiques pour obtenir des renseignements utiles en matière de sécurité, d’enquêtes et de prise de décision."
 image: /img/getting-started/world-network-nasa.jpg

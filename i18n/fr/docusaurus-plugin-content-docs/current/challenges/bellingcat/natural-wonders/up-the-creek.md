@@ -8,9 +8,9 @@ sidebar_label: "Up The Creek"
 
 # Bellingcat - Natural Wonders - Up The Creek - Write-up
 
-Ce write-up présente le challenge Natural Wonders - Up The Creek proposé par [Bellingcat](https://challenge.bellingcat.com/), un défi de géolocalisation demandant aux participants de déterminer les coordonnées d'un lieu visible sur une image aérienne. Ce challenge a été créé par [Kolina Koltai, Bellingcat](https://www.bellingcat.com/author/kolinakoltai/).
+Ce write-up détaille le challenge Natural Wonders - Up The Creek proposé par [Bellingcat](https://challenge.bellingcat.com/), un défi de géolocalisation demandant aux participants de déterminer les coordonnées d'un lieu visible sur une image aérienne. Ce challenge a été créé par [Kolina Koltai, Bellingcat](https://www.bellingcat.com/author/kolinakoltai/).
 
-Ce guide propose une approche détaillée et méthodique pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
+Dans ce guide, nous vous proposons une approche pas à pas pour résoudre l’exercice, tout en fournissant des techniques essentielles pour les enquêtes OSINT. Il est recommandé d’essayer de résoudre le défi par vous-même avant de consulter cette solution pour comparer vos résultats ou obtenir de l’aide. Gardez à l’esprit qu’il existe souvent plusieurs approches valides en OSINT, l’important est de maîtriser et d’être à l’aise avec la méthode choisie.
 
 ## Présentation du challenge
 

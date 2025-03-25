@@ -54,7 +54,8 @@ Pour vérifier cette hypothèse, nous effectuons une recherche d’image invers�
 
 ![Newspaper](/img/challenges/sofia-santos/osint-exercise-008/sofia-santos-008-5.png "Newspaper")
 
-Conclusion
+## Conclusion
+
 A travers cette enquête, nous avons pu confirmer que le public sur la photo applaudissait un spectacle de Shen Yun Performing Arts, qui s’est tenu le 7 janvier 2023 au Chrysler Hall, à Norfolk, Virginie. En exploitant des outils de traduction, d’archives web, de recherche d’image inversée et d’analyse contextuelle, nous avons pu identifier avec précision la date et le lieu de l’événement.
 
 <em>

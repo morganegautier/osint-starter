@@ -11,7 +11,7 @@ position: 1
 
 This write-up covers the Urban Exploration - Name that street! puzzle by [Bellingcat](https://challenge.bellingcat.com/), a geolocation challenge requiring participants to determine the coordinates of a location depicted in a picture. The puzzle was created by [Kolina Koltai, Bellingcat](https://www.bellingcat.com/author/kolinakoltai/).
 
-This guide provides a step-by-step solution to the challenge, offering insights and techniques useful for OSINT investigations. It’s recommended to attempt solving the challenge on your own first and then refer to this solution if you get stuck or want to verify your findings. Keep in mind that OSINT challenges often have multiple valid approaches; what matters most is your confidence and proficiency with the methods you choose.
+This guide provides a step-by-step solution to the challenge, outlining insights and techniques useful for OSINT investigations. It’s recommended to attempt solving the challenge on your own first and then refer to this solution if you get stuck or want to verify your findings. Keep in mind that OSINT challenges often have multiple valid approaches; what matters most is your confidence and proficiency with the methods you choose.
 
 ## Task briefing
 

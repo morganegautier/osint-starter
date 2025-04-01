@@ -59,7 +59,7 @@ Cross-referencing the locations from the Instagram and Facebook posts confirms t
 
 To validate the exact alley, I explored the vicinity of the Minetta Tavern’s planned location. The alley along Morse St Aly seemed to match, but with some architectural differences. To account for possible changes over time, I checked Google Street View (2018) and successfully matched the scene with the challenge image.
 
-![Google Maps Street View"](/img/challenges/bellingcat/urban-exploration/what-a-dump-5.png "Google Maps Street View")
+![Google Maps Street View"](/img/challenges/bellingcat/urban-exploration/what-a-dump-6.png "Google Maps Street View")
 
 ## Conclusion
 

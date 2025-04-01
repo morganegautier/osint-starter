@@ -59,7 +59,7 @@ En croisant les informations issues des publications Instagram et Facebook, j'ai
 
 Pour localiser précisément la ruelle, j'ai exploré les environs du futur Minetta Tavern. L'allée longeant Morse St Aly semblait correspondre, bien que l'architecture ait évolué. J'ai donc utilisé Google Street View en remontant à 2018 et ai retrouvé la scène capturée dans l'image du défi.
 
-![Google Maps Street View"](/img/challenges/bellingcat/urban-exploration/what-a-dump-5.png "Google Maps Street View")
+![Google Maps Street View"](/img/challenges/bellingcat/urban-exploration/what-a-dump-6.png "Google Maps Street View")
 
 ## Conclusion
 

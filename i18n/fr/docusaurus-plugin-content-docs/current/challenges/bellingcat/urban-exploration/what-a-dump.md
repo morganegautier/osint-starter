@@ -69,7 +69,7 @@ Les coordonnées exactes du point de prise de vue sont : **[38.910, -76.998]**
 Used tools:
 - Google Maps: Géolocalisation
 - Google Lens : Recherche d'image inversée
-- Instagram & Facebook: Correspondance d'images sur les réseaux sociaux
+- Instagram & Facebook : Correspondance d'images sur les réseaux sociaux
 </em>
 
 ---

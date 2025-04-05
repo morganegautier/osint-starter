@@ -30,7 +30,7 @@
     "@docusaurus/types": "3.7.0",
     "@types/node": "22",
     "search-insights": "2.17.3",
-    "typescript": "5.8.2"
+    "typescript": "5.8.3"
   },
   "browserslist": {
     "production": [

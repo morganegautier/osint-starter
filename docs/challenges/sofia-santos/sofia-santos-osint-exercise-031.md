@@ -10,7 +10,7 @@ sidebar_label: "OSINT Exercise #031"
 
 This write-up covers [OSINT Exercise #031 by Sofia Santos](https://gralhix.com/list-of-osint-exercises/osint-exercise-031/), which focuses on observation and web searching to uncover hidden information using digital investigation techniques. The challenge is rated easy, making it accessible for both beginners and experienced OSINT practitioners.
 
-This walkthrough provides a step-by-step guide to solving the challenge, offering insights and techniques useful for OSINT investigations. It’s recommended to attempt solving the challenge on your own first and then refer to this solution if you get stuck or want to verify your findings. Keep in mind that OSINT challenges often have multiple valid approaches, what matters most is your confidence and proficiency with the methods you choose.
+This walkthrough provides a step-by-step guide to solving the challenge, outlining insights and techniques useful for OSINT investigations. It’s recommended to attempt solving the challenge on your own first and then refer to this solution if you get stuck or want to verify your findings. Keep in mind that OSINT challenges often have multiple valid approaches, what matters most is your confidence and proficiency with the methods you choose.
 
 ## Task briefing
 

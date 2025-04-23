@@ -40,7 +40,7 @@ Pour recouper cette information, j'ai consulté [The Gazette](https://www.thegaz
 
 ![The Gazette](/img/challenges/sofia-santos/osint-exercise-018/sofia-santos-018-2.png "The Gazette")
 
-Enfin, j'ai visionné les [images d’archives de la BBC]((https://youtu.be/52NTjasbmgw?si=-jQE5VdrWOLwNsjU&t=10414)), disponibles sur la chaîne YouTube Archive of Recorded Church Music. À 2:53:34, on voit clairement la reine quitter l’édifice par la nef, puis franchir la grande porte ouest à 2:53:54.
+Enfin, j'ai visionné les [images d’archives de la BBC](https://youtu.be/52NTjasbmgw?si=-jQE5VdrWOLwNsjU&t=10414), disponibles sur la chaîne YouTube Archive of Recorded Church Music. À 2:53:34, on voit clairement la reine quitter l’édifice par la nef, puis franchir la grande porte ouest à 2:53:54.
 
 La reine Elizabeth II est bien sortie de l’abbaye de Westminster par la **Great West Door**, également utilisée pour son entrée.
 

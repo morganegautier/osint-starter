@@ -1,0 +1,11 @@
+{
+  "position": -6,
+  "label": "Wild Lives",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Wild Lives",
+    "slug": "/challenges/bellingcat/wild-lives"
+  }
+}

@@ -9,7 +9,7 @@ position: 1
 
 # Bellingcat - Wild Lives - Spot the Location - Write-up
 
-This write-up covers the Wild Lives - Spot the Location puzzle by [Bellingcat](https://challenge.bellingcat.com/), aa web searching challenge that tests participants' OSINT skills. The puzzle was created by [Foeke Postma, Bellingcat](https://www.bellingcat.com/author/foekepostma/).
+This write-up covers the Wild Lives - Spot the Location puzzle by [Bellingcat](https://challenge.bellingcat.com/), a web searching challenge that tests participants' OSINT skills. The puzzle was created by [Foeke Postma, Bellingcat](https://www.bellingcat.com/author/foekepostma/).
 
 This guide provides a step-by-step solution to the challenge, offering insights and techniques useful for OSINT investigations. It’s recommended to attempt solving the challenge on your own first and then refer to this solution if you get stuck or want to verify your findings. Keep in mind that OSINT challenges often have multiple valid approaches; what matters most is your confidence and proficiency with the methods you choose.
 

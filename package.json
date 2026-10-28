@@ -28,7 +28,7 @@
     "@docusaurus/module-type-aliases": "3.10.1",
     "@docusaurus/tsconfig": "3.10.1",
     "@docusaurus/types": "3.10.1",
-    "@types/node": "24",
+    "@types/node": "26",
     "search-insights": "2.17.3",
     "typescript": "5.9.3"
   },
